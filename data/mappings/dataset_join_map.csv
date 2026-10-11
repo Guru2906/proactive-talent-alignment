@@ -1,0 +1,7 @@
+dataset_A,dataset_B,join_key,join_type,expected_match_rate,risk,recommended,notes
+role_demand_monthly (Adzuna),linkedin_features,canonical_role,Left Join (1:1 per role),100.0%,Zero row multiplication,YES,Enriches time series with enterprise breadth
+role_demand_monthly (Adzuna),skill_adoption_features,canonical_role,Left Join (1:1 per role),100.0%,Zero row multiplication,YES,Injects developer adoption & AI tool exposure
+role_demand_monthly (Adzuna),naukri_baseline_features,canonical_role,Left Join (1:1 per role),100.0%,Zero row multiplication,YES,Adds historical era novelty score
+role_demand_monthly (Adzuna),onet_knowledge_features,canonical_role,Left Join (1:1 per role),100.0%,Zero row multiplication,YES,Adds O*NET occupational skill density
+canonical_roles,BLS SOC Taxonomy,canonical_role <-> soc_code,Crosswalk Mapping (1:1),100.0%,Clean 1:1 bridge,YES,Enables macroeconomic validation against BLS OEWS
+job_postings (LinkedIn),job_skills.csv,job_id,Relational Join (1:N),98.4%,Aggregate to role-level before join,YES,Builds role-skill co-occurrence evidence matrix

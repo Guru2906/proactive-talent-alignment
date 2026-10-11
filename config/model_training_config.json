@@ -1,0 +1,149 @@
+{
+  "project_name": "Proactive IT Role & Skill Emergence Forecaster",
+  "dataset_source": "data/features/master_role_month_features.csv",
+  "metadata_columns": [
+    "role",
+    "month",
+    "month_idx",
+    "onet_mapped_title"
+  ],
+  "primary_target": "target_t6",
+  "secondary_target": "target_t12",
+  "target_columns": [
+    "target_t1",
+    "target_t6",
+    "target_t12"
+  ],
+  "usable_feature_count": 58,
+  "feature_groups": {
+    "temporal_lags_momentum": [
+      "lag1",
+      "lag2",
+      "lag3",
+      "lag6",
+      "roll3m",
+      "roll6m",
+      "std3m",
+      "max6m",
+      "min6m",
+      "mom1",
+      "mom3",
+      "mom6",
+      "slope6m",
+      "accel",
+      "az_months_active",
+      "az_cumulative",
+      "skill_dominant_cluster",
+      "skill_max_adoption_2024"
+    ],
+    "linkedin_market_structure": [
+      "frontier_ratio",
+      "is_new_era",
+      "li_share",
+      "li_posting_count",
+      "li_role_share_bps",
+      "li_unique_companies",
+      "li_unique_locations",
+      "li_title_variation_count",
+      "li_junior_share",
+      "li_mid_share",
+      "li_senior_share",
+      "li_seniority_entropy",
+      "li_skill_count",
+      "li_skill_diversity",
+      "li_frontier_skill_ratio",
+      "li_so_emerging_density",
+      "li_company_breadth",
+      "li_company_concentration",
+      "li_unique_industries"
+    ],
+    "skill_adoption_velocity": [
+      "sk_vel",
+      "skill_dominant_cluster",
+      "skill_avg_adoption_2024",
+      "skill_max_adoption_2024",
+      "skill_ai_tool_count",
+      "skill_ai_tool_penetration",
+      "skill_cloud_platform_score",
+      "skill_multiyear_growth_rate",
+      "skill_novelty_index"
+    ],
+    "naukri_era_novelty": [
+      "nk_present",
+      "nk_share",
+      "nk_role_present",
+      "nk_posting_count",
+      "nk_share_bps",
+      "nk_skill_count",
+      "nk_skill_overlap_ratio",
+      "era_novelty_score"
+    ],
+    "onet_occupational_knowledge": [
+      "onet_matched",
+      "onet_skill_count",
+      "onet_tech_density",
+      "onet_top_languages_count",
+      "onet_emerging_relevance",
+      "onet_match_similarity"
+    ]
+  },
+  "walk_forward_folds": [
+    {
+      "fold_name": "BT_2024Q1",
+      "train_cutoff": "2023-12",
+      "eval_start": "2024-01",
+      "eval_end": "2024-06",
+      "notes": "Early baseline backtest; 2 training months, 6 eval months"
+    },
+    {
+      "fold_name": "BT_2024Q3",
+      "train_cutoff": "2024-06",
+      "eval_start": "2024-07",
+      "eval_end": "2024-12",
+      "notes": "Mid-horizon backtest; 8 training months, 6 eval months"
+    },
+    {
+      "fold_name": "BT_2025Q1",
+      "train_cutoff": "2024-12",
+      "eval_start": "2025-01",
+      "eval_end": "2025-04",
+      "notes": "Recent backtest; 14 training months, 4 eval months"
+    }
+  ],
+  "sparse_role_rule": {
+    "threshold_active_months": 4,
+    "classification_sparse": "SPARSE_SKILL_TRANSFER",
+    "classification_dense": "DIRECT_FORECAST"
+  },
+  "model_hyperparameters": {
+    "lightgbm_baseline": {
+      "n_estimators": 100,
+      "learning_rate": 0.05,
+      "num_leaves": 15,
+      "min_child_samples": 5,
+      "random_state": 42,
+      "verbose": -1
+    },
+    "lightgbm_production": {
+      "n_estimators": 120,
+      "learning_rate": 0.04,
+      "num_leaves": 18,
+      "min_child_samples": 4,
+      "subsample": 0.85,
+      "colsample_bytree": 0.85,
+      "random_state": 42,
+      "verbose": -1
+    }
+  },
+  "evaluation_metrics": [
+    "MAE",
+    "RMSE",
+    "WAPE",
+    "sMAPE",
+    "Directional_Accuracy",
+    "Precision@5",
+    "Precision@10",
+    "NDCG@10",
+    "MRR"
+  ]
+}

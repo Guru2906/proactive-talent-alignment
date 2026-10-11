@@ -1,0 +1,2 @@
+target_name,definition,total_observations,min_value,max_value,mean_value,std_dev,distribution_type,sparsity_notes,final_recommendation
+Target Variable Y(t+6),Observed market share in basis points at t+6,936,0.0,321.4,25.6,52.3,Continuous Positive (Basis Points),Zero-inflated on frontier sparse roles; tightly calibrated on established roles,RECOMMENDED (Direct Continuous Demand Target)

@@ -1,0 +1,41 @@
+candidate_role,taxonomic_source,is_already_canonical,emerging_skills_count,emerging_skill_relevance,skill_breadth_sample,emergence_recommendation
+database developer,ESCO/O*NET Standard,0,14,0.1556,abap; address; problems; critically; ajax; ajax; framework; apl,Promote to Level 2 Canonical
+data warehouse designer,ESCO/O*NET Standard,0,13,0.1444,abap; agile; project; management; ajax; analyse; business; requirements,Promote to Level 2 Canonical
+database designer,ESCO/O*NET Standard,0,13,0.1444,abap; agile; project; management; ajax; analyse; business; requirements,Promote to Level 2 Canonical
+system configurator,ESCO/O*NET Standard,0,13,0.1444,abap; ajax; analyse; software; specifications; apl; asp; net,Promote to Level 2 Canonical
+embedded system designer,ESCO/O*NET Standard,0,11,0.1222,abap; ajax; analyse; software; specifications; ansible; apache; maven,Promote to Level 2 Canonical
+chief technology officer,ESCO/O*NET Standard,0,11,0.1222,abap; administer; ict; system; agile; project; management; ajax,Promote to Level 2 Canonical
+knowledge engineer,ESCO/O*NET Standard,0,11,0.1222,abap; ajax; analyse; business; requirements; apl; apply; ict,Promote to Level 2 Canonical
+ICT network administrator,ESCO/O*NET Standard,0,11,0.1222,abap; acquire; system; component; adjust; ict; system; capacity,Promote to Level 2 Canonical
+chief information officer,ESCO/O*NET Standard,0,11,0.1222,abap; administer; ict; system; agile; development; agile; project,Promote to Level 2 Canonical
+user interface developer,ESCO/O*NET Standard,0,11,0.1222,abap; adobe; illustrator; adobe; photoshop; ajax; ajax; framework,Promote to Level 2 Canonical
+user interface designer,ESCO/O*NET Standard,0,11,0.1222,abap; adobe; illustrator; adobe; photoshop; agile; development; agile,Promote to Level 2 Canonical
+digital games developer,ESCO/O*NET Standard,0,11,0.1222,3d; lighting; 3d; texturing; abap; adapt; to; changes,Promote to Level 2 Canonical
+ICT system analyst,ESCO/O*NET Standard,0,11,0.1222,abap; ajax; analyse; business; processes; analyse; ict; system,Promote to Level 2 Canonical
+ICT application developer,ESCO/O*NET Standard,0,11,0.1222,abap; adapt; to; changes; in; technological; development; plans,Promote to Level 2 Canonical
+software architect,ESCO/O*NET Standard,0,11,0.1222,abap; agile; project; management; ajax; align; software; with,Promote to Level 2 Canonical
+ICT system architect,ESCO/O*NET Standard,0,11,0.1222,abap; acquire; system; component; agile; project; management; ajax,Promote to Level 2 Canonical
+software developer,ESCO/O*NET Standard,0,11,0.1222,abap; adapt; to; changes; in; technological; development; plans,Promote to Level 2 Canonical
+software analyst,ESCO/O*NET Standard,0,10,0.1111,abap; agile; development; agile; project; management; ajax; analyse,Promote to Level 2 Canonical
+software tester,ESCO/O*NET Standard,0,10,0.1111,abap; address; problems; critically; agile; project; management; ajax,Promote to Level 2 Canonical
+enterprise architect,ESCO/O*NET Standard,0,10,0.1111,abap; agile; development; agile; project; management; ajax; align,Promote to Level 2 Canonical
+mobile application developer,ESCO/O*NET Standard,0,10,0.1111,abap; adapt; to; changes; in; technological; development; plans,Promote to Level 2 Canonical
+artificial intelligence engineer,ESCO/O*NET Standard,0,10,0.1111,agile; project; management; algorithms; analyse; big; data; analyse,Promote to Level 2 Canonical
+ICT technician,ESCO/O*NET Standard,0,10,0.1111,abap; administer; ict; system; ajax; apl; asp; net,Promote to Level 2 Canonical
+ICT application configurator,ESCO/O*NET Standard,0,10,0.1111,abap; ajax; analyse; software; specifications; ansible; apache; maven,Promote to Level 2 Canonical
+embedded systems software developer,ESCO/O*NET Standard,0,10,0.1111,abap; adapt; to; changes; in; technological; development; plans,Promote to Level 2 Canonical
+numerical tool and process control programmer,ESCO/O*NET Standard,0,10,0.1111,3d; modelling; abap; advise; client; on; technical; possibilities,Promote to Level 2 Canonical
+ICT security technician,ESCO/O*NET Standard,0,10,0.1111,abap; address; problems; critically; ajax; analyse; ict; system,Promote to Level 2 Canonical
+ICT system developer,ESCO/O*NET Standard,0,10,0.1111,adapt; to; changes; in; technological; development; plans; ajax,Promote to Level 2 Canonical
+industrial mobile devices software developer,ESCO/O*NET Standard,0,10,0.1111,abap; adapt; to; changes; in; technological; development; plans,Promote to Level 2 Canonical
+web developer,ESCO/O*NET Standard,0,10,0.1111,abap; adapt; to; changes; in; technological; development; plans,Promote to Level 2 Canonical
+ICT network engineer,ESCO/O*NET Standard,0,10,0.1111,abap; adapt; to; changes; in; technological; development; plans,Promote to Level 2 Canonical
+telecommunications engineering technician,ESCO/O*NET Standard,0,10,0.1111,abap; ajax; analog; electronics; theory; apl; apply; ict,Promote to Level 2 Canonical
+webmaster,ESCO/O*NET Standard,0,10,0.1111,abap; adobe; illustrator; adobe; photoshop; ajax; apl; apply,Promote to Level 2 Canonical
+integration engineer,ESCO/O*NET Standard,0,9,0.1,abap; adapt; to; changing; situations; agile; project; management,Promote to Level 2 Canonical
+blockchain developer,ESCO/O*NET Standard,0,6,0.0667,adapt; to; changes; in; technological; development; plans; analyse,Standard Tracking
+database integrator,ESCO/O*NET Standard,0,6,0.0667,apply; ict; systems; theory; balance; database; resources; business,Standard Tracking
+chief data officer,ESCO/O*NET Standard,0,6,0.0667,apply; change; management; apply; information; security; policies; business,Standard Tracking
+computer scientist,ESCO/O*NET Standard,0,6,0.0667,apache; tomcat; apply; blended; learning; apply; for; research,Standard Tracking
+database administrator,ESCO/O*NET Standard,1,5,0.0556,administer; ict; system; apply; company; policies; balance; database,Standard Tracking
+data centre operator,ESCO/O*NET Standard,0,5,0.0556,administer; ict; system; analyse; ict; system; balance; database,Standard Tracking

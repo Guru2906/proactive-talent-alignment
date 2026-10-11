@@ -1,0 +1,13 @@
+dataset,feature_source,earliest_date,latest_date,temporal_type,available_at_cutoff,safe_for_training,potential_future_information,leakage_risk,notes
+adzuna_cleaned.csv,"lag1, lag2, lag3, lag6",2023-05,2025-10,Monthly Time Series,"t-1, t-2, t-3, t-6",YES,NONE,SAFE,Strictly observed before prediction cutoff
+adzuna_cleaned.csv,"roll3m, roll6m, std3m",2023-05,2025-10,Monthly Time Series,"[t-3, t-1], [t-6, t-1]",YES,NONE,SAFE,Historical rolling aggregations over prior months
+adzuna_cleaned.csv,"mom1, mom3, mom6, slope6m, accel",2023-05,2025-10,Monthly Time Series,Historical derivatives,YES,NONE,SAFE,Computed strictly on historical windows
+linkedin_cleaned.csv,"li_posting_count, li_unique_companies",2024-04,2024-04,Cross-Sectional Prior,Static structural prior,YES,NONE,SAFE,Structural hiring breadth across organizations
+linkedin_cleaned.csv,"li_seniority_entropy, li_frontier_ratio",2024-04,2024-04,Cross-Sectional Prior,Static structural prior,YES,NONE,SAFE,Macro seniority and skill distribution
+emerging_skill_clusters.csv,"skill_avg_adoption_2024, skill_ai_count",2024-12,2024-12,Survey Benchmark,Static external benchmark,YES,NONE,SAFE,Developer ecosystem survey adoption
+skill_year_percentage.csv,sk_vel (Skill Velocity CAGR),2015-01,2025-10,Longitudinal Longitude,Multi-year CAGR,YES,NONE,SAFE,Long-term trajectory of associated technologies
+naukri_cleaned.csv,"era_novelty_score, nk_share_bps",2015-01,2017-12,Historical Baseline,Pre-AI baseline,YES,NONE,SAFE,Strictly pre-dates all forecasting intervals
+current_roles_master.csv,"onet_skill_count, onet_tech_density",Static,Static,Occupational Knowledge,Static taxonomy,YES,NONE,SAFE,O*NET standard occupational skills
+national_M2018_M2025.xlsx,"total_employment, annual_mean_wage",2018,2025,Annual Historical,Annual government series,NO (Macro Benchmark),NONE,SAFE,Government employment history for validation only
+1.2 Future growth.xlsx,10-year projected employment change %,2024,2034,10-Year Future Projection,Future 2034 projection,NO (Lookahead Risk),2024-2034 Projections,FUTURE INFORMATION,Strictly excluded from training features; reserved for validation engine
+1.10 future job openings.xlsx,Projected annual job openings,2024,2034,10-Year Future Projection,Future 2034 openings,NO (Lookahead Risk),2024-2034 Projections,FUTURE INFORMATION,Strictly excluded from training features; reserved for validation engine

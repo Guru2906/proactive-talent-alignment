@@ -1,0 +1,26 @@
+dataset,source,time_start,time_end,rows,purpose,pipeline,usage_type,training_allowed,validation_allowed,inference_allowed,leakage_risk,status,reason
+adzuna_global_job_listings_2025.csv,Adzuna API,2022-01,2025-10,17350,Primary temporal demand signal for known-role forecasting,Pipeline A,CORE_TRAINING,True,True,False,LOW,KEEP,Primary time-series feature source
+postings.csv (LinkedIn),LinkedIn (Kaggle),2023-01,2025-10,1600000,"Cross-sectional features: company breadth, seniority, skill diversity",Pipeline A+B,CORE_TRAINING,True,False,False,LOW,KEEP,Layer B features + SBERT embedding source
+naukri_com-job_sample.csv,Naukri (Kaggle),2023-01,2025-10,22000,Indian market baseline; nk_* features in Layer B,Pipeline A,CORE_TRAINING,True,True,False,LOW,KEEP,Layer B naukri features
+occupation.xlsx,BLS O*NET 2018-2025,2018,2025,7000,O*NET occupation-to-skill taxonomy for Layer E features,Pipeline A,EXTERNAL_KNOWLEDGE,False,False,True,NONE,KEEP,Static taxonomy - no leakage
+tech_occupation_skill_full.csv,O*NET database,2023,2025,8000,"Skill count, tech density, language coverage per occupation",Pipeline A,EXTERNAL_KNOWLEDGE,False,False,True,NONE,KEEP,Layer E static join
+future_job_profiles_esco_raw.csv,ESCO v1.2,2023,2025,2000,European role taxonomy for role discovery validation,Pipeline B,REFERENCE,False,True,False,NONE,KEEP,Cluster label validation reference
+future_it_jobs_master.csv,Curated research,2024,2025,300,Curated future IT role names for canonical expansion,Mapping,MAPPING,False,False,False,NONE,KEEP,Extends canonical role taxonomy
+emerging_skill_clusters_8yr.csv,Stack Overflow Surveys 2016-2024,2016,2024,50,8-year skill adoption velocity from SO Developer Surveys,Pipeline A+B,EXTERNAL_KNOWLEDGE,False,False,True,NONE,KEEP,Layer C skill_multiyear_growth_rate
+future_jobs_expanded.csv,WEF + research synthesis,2024,2026,200,Expanded future role list for catalog enrichment,Pipeline B,REFERENCE,False,False,True,NONE,KEEP,Emerging role name reference
+role_skill_mapping.csv,Curated + O*NET,2024,2025,150,Seed role-to-skill mapping for skill gap bootstrap,Recommendation,MAPPING,False,False,True,NONE,KEEP,Initial role-skill seed
+master_role_month_features.csv,Engineered (step1_enhanced),2023-11,2025-10,936,PRODUCTION feature store: 936 rows x 65 features for LightGBM,Pipeline A,CORE_TRAINING,True,True,False,LOW,KEEP,Primary training dataset
+title_embeddings.npy,SBERT (generated),2022-Q4,2025-Q3,200000,Pre-computed 384-dim SBERT embeddings for all job titles,Pipeline B,FEATURE_SOURCE,False,False,True,NONE,KEEP,Cluster discovery cache
+canonical_embeddings.npy,SBERT (generated),2024,2025,74,Embeddings for 74 canonical role names,Pipeline B,FEATURE_SOURCE,False,False,True,NONE,KEEP,Title novelty computation
+canonical_roles.csv,Curated,N/A,N/A,74,Master list of 74 known canonical IT role names,Both,MAPPING,False,False,True,NONE,KEEP,Role taxonomy backbone
+role_mapping.csv,Curated + regex,N/A,N/A,2000,Maps 2000+ raw job titles to canonical role names,Both,MAPPING,False,False,True,NONE,KEEP,Raw-to-canonical normalization
+skill_mapping.csv,Curated + O*NET,N/A,N/A,900,Maps raw skill strings to canonical skill names,Both,MAPPING,False,False,True,NONE,KEEP,Skill normalization
+questionnaire.json,Designed,N/A,N/A,48,48-question adaptive assessment bank (BAIO personality system),Assessment,REFERENCE,False,False,True,NONE,KEEP,Assessment instrument
+emerging_roles.json,Generated (pipeline),2022-Q4,2025-Q3,60,PRODUCTION role catalog: 60 roles x 39 fields (known + emerging),API,INFERENCE,False,False,True,NONE,KEEP,Primary API data source
+role_skill_matrix.csv,Generated (step1_enhanced),2023,2025,2660,"Role x skill matrix with frequency, penetration, velocity",Recommendation,FEATURE_SOURCE,False,False,True,NONE,KEEP,Skill gap + intelligence layer
+walk_forward_predictions.csv,Generated (backtest),2024-Q1,2025-Q1,117,"Walk-forward backtest predictions for 3 cutoffs, 3 models",Validation,VALIDATION_ONLY,False,True,False,NONE,KEEP,Leakage-safe backtest evidence
+audited_feature_leakage_log.csv,Generated (audit),N/A,N/A,58,Leakage audit verdict for all 58 model features,Validation,VALIDATION_ONLY,False,True,False,NONE,KEEP,Scientific integrity proof
+cross_source_normalized.csv,Generated (step1),2022-Q4,2025-Q3,85529,Multi-source normalized posting counts by role-month-source,Pipeline A,FEATURE_SOURCE,True,False,False,LOW,KEEP,Temporal demand computation
+role_monthly_demand.csv,Generated (step1),2022-Q4,2025-Q3,85529,Canonical role x month x source posting counts,Pipeline A,FEATURE_SOURCE,True,False,False,LOW,KEEP,Demand time series
+job_skills_extracted.csv,Generated (step1),2022-Q4,2025-Q3,131118,"Job-level skill extraction by source, role, month",Pipeline A+B,FEATURE_SOURCE,True,False,False,LOW,KEEP,Skill velocity features
+skill_monthly_demand.csv,Generated (step1),2022-Q4,2025-Q3,7963,Skill-level monthly frequency across all sources,Pipeline A,FEATURE_SOURCE,True,False,False,LOW,KEEP,sk_vel feature computation

@@ -1,0 +1,184 @@
+# ============================================================
+# PIPELINE CONFIG — Emerging IT Role Forecaster
+# ============================================================
+
+# ── Paths ──────────────────────────────────────────────────
+paths:
+  base: "."
+  raw_adzuna: "data/raw/adzuna_global_job_listings_2025.csv"
+  raw_linkedin_postings: "data/raw/postings.csv"
+  raw_naukri: "data/raw/naukri_com-job_sample.csv"
+  raw_linkedin_skills: "data/raw/jobs/job_skills.csv"
+  canonical_roles: "data/mappings/canonical_roles.csv"
+  master_features: "data/features/master_role_month_features.csv"
+  known_model: "models/final_model.joblib"
+  known_model_config: "models/final_config.json"
+  embeddings_dir: "data/features/embeddings"
+  clusters_dir: "data/clusters"
+  outputs_dir: "outputs"
+  dashboard_dir: "dashboard"
+  database: "data/application/career_recommendation.db"
+
+# ── Data Settings ──────────────────────────────────────────
+data:
+  it_category_label: "IT Jobs"    # Adzuna category filter
+  min_date: "2022-01-01"          # earliest data to use
+  max_date: "2025-10-31"          # latest available
+  # Quarterly windows for temporal tracking
+  quarterly_windows:
+    - "2022-Q4"
+    - "2023-Q1"
+    - "2023-Q2"
+    - "2023-Q3"
+    - "2023-Q4"
+    - "2024-Q1"
+    - "2024-Q2"
+    - "2024-Q3"
+    - "2024-Q4"
+    - "2025-Q1"
+    - "2025-Q2"
+    - "2025-Q3"
+
+# ── Embedding Settings ─────────────────────────────────────
+embeddings:
+  model_name: "all-MiniLM-L6-v2"     # fast, 384-dim
+  # Alternative: "all-mpnet-base-v2"  (better quality, 3x slower)
+  batch_size: 512
+  cache_file: "data/embeddings/title_embeddings.npy"
+  id_map_file: "data/embeddings/title_id_map.csv"
+  canonical_cache: "data/embeddings/canonical_embeddings.npy"
+
+# ── HDBSCAN Settings ───────────────────────────────────────
+hdbscan:
+  min_cluster_size: 15
+  min_samples: 5
+  metric: "euclidean"
+  cluster_selection_method: "eom"
+  # Per-quarter (smaller windows, smaller min_cluster_size)
+  quarterly_min_cluster_size: 8
+  quarterly_min_samples: 3
+
+# ── Cluster Tracking ───────────────────────────────────────
+cluster_tracking:
+  centroid_similarity_threshold: 0.75   # cosine sim to match clusters across quarters
+  min_persistence_quarters: 2           # cluster must appear in ≥2 quarters to be tracked
+  min_cluster_postings: 20              # absolute minimum posting volume
+
+# ── Emergence Score Weights ────────────────────────────────
+emergence_weights:
+  demand_growth: 0.25
+  skill_velocity: 0.15
+  skill_novelty: 0.15
+  title_novelty: 0.15
+  market_breadth: 0.10
+  persistence: 0.10
+  technology_adoption: 0.10
+
+# ── Novelty Thresholds ─────────────────────────────────────
+novelty:
+  canonical_similarity_threshold: 0.75   # above = similar to existing role
+  high_novelty_threshold: 0.35           # below this cosine sim = highly novel
+  skill_novelty_min_new_ratio: 0.30      # at least 30% new skills = novel
+
+# ── Persistence Scoring ────────────────────────────────────
+persistence:
+  score_map:                    # quarters → score
+    1: 0.10
+    2: 0.30
+    3: 0.50
+    4: 0.65
+    5: 0.75
+    6: 0.85
+    7: 0.90
+    8: 0.95
+    9: 1.00
+
+# ── Forecast Settings ─────────────────────────────────────
+forecast:
+  horizon_months: 6               # primary known-role forecast horizon
+  horizon_months_long: 12         # secondary forecast horizon
+  cluster_horizon_quarters: 2     # cluster growth forecast
+
+# ── Final Ranking Weights ─────────────────────────────────
+ranking:
+  known_role_weight: 0.60
+  emerging_role_weight: 0.40
+  # Confidence bands
+  high_confidence_threshold: 0.75
+  medium_confidence_threshold: 0.50
+
+# ── Noise Filtering ────────────────────────────────────────
+noise_filters:
+  min_absolute_postings_per_quarter: 5
+  min_unique_companies: 2
+  min_persistence_quarters: 2
+  max_canonical_similarity: 0.92   # if very similar to existing role, flag as evolution not new
+
+# ── Known-Role LightGBM (already trained, kept for ref) ───
+known_role_model:
+  n_estimators: 200
+  learning_rate: 0.03
+  num_leaves: 25
+  max_depth: 5
+  min_child_samples: 3
+  subsample: 0.85
+  colsample_bytree: 0.85
+  random_state: 42
+  target: "target_t6"
+
+# ── Cluster Forecaster LightGBM ───────────────────────────
+cluster_forecaster:
+  n_estimators: 100
+  learning_rate: 0.05
+  num_leaves: 15
+  max_depth: 4
+  min_child_samples: 2
+  random_state: 42
+
+# ── Reproducibility ────────────────────────────────────────
+random_seed: 42
+
+# ── Title Cleaning Preserve Terms ─────────────────────────
+preserve_terms:
+  - AI
+  - ML
+  - LLM
+  - RAG
+  - NLP
+  - MLOps
+  - DevOps
+  - DevSecOps
+  - SRE
+  - ETL
+  - DBA
+  - API
+  - SDK
+  - UI
+  - UX
+  - iOS
+  - QA
+  - GenAI
+  - FinOps
+  - AIOps
+  - DataOps
+  - GitOps
+  - FPGA
+  - IoT
+  - AR
+  - VR
+  - XR
+  - GPU
+  - TPU
+
+stop_words_in_titles:
+  - "i"
+  - "ii"
+  - "iii"
+  - "iv"
+  - "jr"
+  - "sr"
+  - "contract"
+  - "temp"
+  - "part-time"
+  - "remote"
+  - "hybrid"

@@ -1,0 +1,40 @@
+canonical_role_id,canonical_role_name,role_family,role_category,emergence_tier,source_coverage,mapping_confidence,mapping_method
+ROLE_1001,Generative AI Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1002,AI Agent / Agentic AI Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1003,AI Security Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1004,MLOps Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1005,Machine Learning Engineer,Artificial Intelligence & Machine Learning,AI/ML,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1006,Deep Learning Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1007,NLP Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1008,Computer Vision Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1009,AI Research Scientist,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1010,Applied ML Scientist,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1011,AI Engineer,Artificial Intelligence & Machine Learning,AI/ML,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1012,Data Engineer,Data & Analytics,Data,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1013,Data Scientist,Data & Analytics,Data,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1014,Data Architect,Data & Analytics,Data,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1015,Analytics / Data Platform Engineer,Data & Analytics,Data,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1016,Data Analyst,Data & Analytics,Data,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1017,ETL Developer,Data & Analytics,Data,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1018,Database Administrator,Data & Analytics,Data,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1019,Platform Engineer,Cloud & Infrastructure,Cloud,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1020,Site Reliability Engineer (SRE),Cloud & Infrastructure,Cloud,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1021,DevOps / DevSecOps Engineer,Cloud & Infrastructure,Cloud,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1022,Cloud Security Engineer,Cloud & Infrastructure,Cloud,Growing Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1023,Cloud Engineer / Architect,Cloud & Infrastructure,Cloud,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1024,Cloud Infrastructure Engineer,Cloud & Infrastructure,Cloud,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1025,Cybersecurity Engineer,Cybersecurity,Security,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1026,Security Analyst / Pen Tester,Cybersecurity,Security,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1027,Full Stack Engineer,Software & Web Engineering,Software,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1028,Backend Engineer,Software & Web Engineering,Software,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1029,Frontend Engineer,Software & Web Engineering,Software,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1030,Software Engineer,Software & Web Engineering,Software,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1031,Python Developer,Software & Web Engineering,Software,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1032,Java Developer,Software & Web Engineering,Software,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1033,Mobile App Developer,Software & Web Engineering,Software,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1034,Embedded Systems / Firmware Engineer,Embedded & Frontier Systems,Hardware/Embedded,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1035,Quantum Computing Engineer,Embedded & Frontier Systems,Frontier Systems,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1036,Edge AI Engineer,Embedded & Frontier Systems,Frontier Systems,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1037,Robotics Engineer,Embedded & Frontier Systems,Robotics,Frontier / Sparse Emerging,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1038,Technical Product Manager,Architecture & Management,Product/Agile,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy
+ROLE_1039,Scrum Master,Architecture & Management,Product/Agile,Established High-Demand,"Adzuna, LinkedIn, Naukri, O*NET, ESCO",1.0,Standardized Canonical IT Hierarchy

@@ -1,0 +1,6 @@
+dataset_name,total_rows,duplicate_rows,unmapped_keys,join_completeness,quality_verdict
+role_demand_monthly.csv,936,0,0,100.0%,PASSED (Zero Duplicate Role-Month Tuples)
+role_skill_evidence.csv,2660,0,0,100.0%,PASSED (Zero Duplicate Role-Skill Tuples)
+skill_temporal.csv,282,0,0,100.0%,PASSED (Clean Annual Trajectories)
+occupation_employment_history.csv,272,0,0,100.0%,PASSED (Consistent BLS 2018-2025 Series)
+role_occupation_crosswalk.csv,39,0,0,100.0%,PASSED (100% Canonical Roles Mapped to SOC)

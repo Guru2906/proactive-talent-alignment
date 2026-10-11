@@ -1,0 +1,10 @@
+split,model,gt_emerging_count,mae,rmse,smape_pct,wape_pct,dir_acc_pct,precision_at_5,precision_at_10,ndcg_at_10
+BT_2024Q1,Naive,0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,1.0
+BT_2024Q1,Old_Baseline_LGB,0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,1.0
+BT_2024Q1,Enhanced_MultiSource_LGB,0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,1.0
+BT_2024Q3,Naive,2,13.46,47.44,200.0,100.0,89.74,0.0,0.0,0.0
+BT_2024Q3,Old_Baseline_LGB,2,3.04,7.36,176.21,22.6,33.33,0.4,0.2,1.0
+BT_2024Q3,Enhanced_MultiSource_LGB,2,0.78,3.6,169.71,5.77,43.59,0.4,0.2,1.0
+BT_2025Q1,Naive,12,26.13,105.12,174.52,80.31,66.67,0.8,0.4,0.51
+BT_2025Q1,Old_Baseline_LGB,12,2.63,5.56,169.16,8.07,33.33,0.8,0.7,0.761
+BT_2025Q1,Enhanced_MultiSource_LGB,12,2.61,5.69,168.03,8.01,48.72,0.8,0.8,0.836

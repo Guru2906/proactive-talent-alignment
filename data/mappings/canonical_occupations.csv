@@ -1,0 +1,42 @@
+soc_code,soc_title,occupational_domain,stem_classification,standard_source,mapping_confidence
+11-3021,Computer and information systems managers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-0000,Computer and mathematical occupations,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1200,Computer occupations,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1210,Computer and information analysts,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1211,Computer systems analysts,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1212,Information security analysts,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1221,Computer and information research scientists,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1230,Computer support specialists,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1231,Computer network support specialists,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1232,Computer user support specialists,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1240,Database and network administrators and architects,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1241,Computer network architects,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1242,Database administrators,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1243,Database architects,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1244,Network and computer systems administrators,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1250,"Software and web developers, programmers, and testers",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1251,Computer programmers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1252,Software developers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1253,Software quality assurance analysts and testers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1254,Web developers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1255,Web and digital interface designers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-1299,"Computer occupations, all other",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-2000,Mathematical science occupations,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-2011,Actuaries,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-2021,Mathematicians,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-2031,Operations research analysts,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-2041,Statisticians,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-2051,Data scientists,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+15-2099,"Mathematical science occupations, all other",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+17-2061,Computer hardware engineers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+17-2072,"Electronics engineers, except computer",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+25-1020,"Math and computer science teachers, postsecondary",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+25-1021,"Computer science teachers, postsecondary",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+43-9020,Data entry and information processing workers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+43-9021,Data entry keyers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+43-9071,"Office machine operators, except computer",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+49-2011,"Computer, automated teller, and office machine repairers",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+51-9160,Computer numerically controlled tool operators and programmers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+51-9161,Computer numerically controlled tool operators,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+51-9162,Computer numerically controlled tool programmers,Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0
+nan,"Wage data are from the Occupational Employment and Wage Statistics program. The wage data cover non-farm wage and salary workers and do not cover the self-employed, owners and partners in unincorporated firms, or household workers.",Computer & Mathematical Occupations (15-0000),STEM / Computer Occupations,BLS 2024-2034 Standard Occupational Classification,1.0

@@ -1,0 +1,5 @@
+discovery_method,cluster_novelty_capture,noise_filtering,temporal_stability,emergence_correlation
+Keyword / TF-IDF Matching,"Low (Fails on synonyms, e.g., 'GenAI Developer' vs 'LLM Engineer')",Rule-based regex,None (Static cross-section),0.42
+SBERT Embeddings + K-Means (Fixed K),"Moderate (Forces predefined K roles, merging distinct emerging niches)",Distance threshold,Unstable centroids across time,0.61
+SBERT + HDBSCAN (Single Static Window),"High (Discovers arbitrary-density micro-roles, isolates noise)",HDBSCAN outlier probability,Single point in time (Cannot distinguish temporary noise from persistent emergence),0.74
+SBERT + HDBSCAN + Temporal Tracking + Multi-Component Emergence Scoring (Authoritative),"Very High (Discovers novel roles, verifies persistence across >=2Q, scores breadth and velocity)",Noise probability + Min Persistence (>=2Q) + Min Companies (>=2),High (Centroid cosine continuity >= 0.75 across quarterly windows),0.91

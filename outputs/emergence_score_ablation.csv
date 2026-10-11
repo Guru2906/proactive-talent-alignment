@@ -1,0 +1,6 @@
+config,w_demand_growth,w_skill_velocity,w_skill_novelty,w_title_novelty,w_market_breadth,w_persistence,w_technology_adoption,precision_at_5,precision_at_10,ndcg_at_10,notes
+Current Production Weights,0.25,0.15,0.15,0.15,0.1,0.1,0.1,0.8,0.4,0.777,Selected: balanced growth + novelty signal
+Equal Weights,0.143,0.143,0.143,0.143,0.143,0.143,0.143,0.8,0.4,0.741,Underperforms: dilutes strong growth signal
+Growth-Heavy,0.4,0.1,0.1,0.15,0.1,0.05,0.1,0.8,0.4,0.762,Slightly worse: over-weights noise spikes
+Novelty-Heavy,0.15,0.2,0.2,0.2,0.1,0.05,0.1,0.6,0.4,0.73,Worse: biases toward one-time novel signals without persistence
+Persistence-Heavy,0.2,0.1,0.1,0.1,0.15,0.25,0.1,0.8,0.4,0.755,Underperforms: established roles score higher than truly emerging ones

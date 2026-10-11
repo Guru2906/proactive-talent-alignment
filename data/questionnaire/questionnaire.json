@@ -1,0 +1,1916 @@
+[
+  {
+    "id": "S1_Q1",
+    "phase": 1,
+    "order": 1,
+    "text": "How do you usually begin a new project?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "common",
+    "options": [
+      {
+        "text": "Start building a solution immediately",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyze the requirements in detail",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Explore multiple ideas before deciding",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Plan the structure and workflow",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S1_Q2",
+    "phase": 1,
+    "order": 2,
+    "text": "Which type of work do you enjoy the most?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "common",
+    "options": [
+      {
+        "text": "Developing applications or coding",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyzing data and solving logical problems",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Experimenting with new ideas or technologies",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Organizing systems and managing workflows",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S1_Q3",
+    "phase": 1,
+    "order": 3,
+    "text": "While solving a problem, what is your natural approach?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "common",
+    "options": [
+      {
+        "text": "Build and test solutions quickly",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Break down and analyze the problem",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Explore unconventional or creative approaches",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Structure a clear plan before execution",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S1_Q4",
+    "phase": 1,
+    "order": 4,
+    "text": "As a problem solver, what motivates you more?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "common",
+    "options": [
+      {
+        "text": "Seeing a working product",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Understanding patterns and insights",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Discovering new possibilities",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Creating a stable and scalable system",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S1_Q5",
+    "phase": 1,
+    "order": 5,
+    "text": "Which type of work environment do you feel most comfortable in?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "common",
+    "options": [
+      {
+        "text": "Fast-paced execution and building",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Problem-solving and analysis-driven",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Flexible and idea-driven",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Structured and process-oriented",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S1_Q6",
+    "phase": 1,
+    "order": 6,
+    "text": "What type of role do you naturally like to take in a team?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "common",
+    "options": [
+      {
+        "text": "Builder and implementer",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyst and evaluator",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Idea generator and innovator",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Coordinator and system organizer",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q1",
+    "phase": 2,
+    "order": 1,
+    "text": "If your system fails, what will be your first response?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Fix the implementation immediately",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyze the root cause step by step",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Try a completely new approach",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Reorganize the system or workflow",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q2",
+    "phase": 2,
+    "order": 2,
+    "text": "I enjoy solving complex technical problems independently.",
+    "type": "likert",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.6,
+          0.6,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q3",
+    "phase": 2,
+    "order": 3,
+    "text": "If a dataset is producing incorrect results, what would be your first approach?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Clean the data and rerun the process",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyze patterns to identify the root cause",
+        "weights": [
+          0.0,
+          1.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "text": "Try a different model or approach",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Modify the system pipeline or workflow",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q4",
+    "phase": 2,
+    "order": 4,
+    "text": "I prefer designing systems rather than building them.",
+    "type": "likert",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          0.0,
+          0.3,
+          1.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q5",
+    "phase": 2,
+    "order": 5,
+    "text": "If a system becomes overloaded, what would you first focus on?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Optimizing the code for better performance",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyzing system metrics and bottlenecks",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Redesigning the system architecture",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Scaling infrastructure and resources",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q6",
+    "phase": 2,
+    "order": 6,
+    "text": "What do you prioritize more in your work?",
+    "type": "binary",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Speed",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Accuracy",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q7",
+    "phase": 2,
+    "order": 7,
+    "text": "Which work style do you prefer?",
+    "type": "binary",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Working independently",
+        "weights": [
+          0.5,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Working collaboratively in a team",
+        "weights": [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q8",
+    "phase": 2,
+    "order": 8,
+    "text": "Which type of challenge do you prefer?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Building functional products",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Solving data-driven problems",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Exploring creative possibilities",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Managing complex systems",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q9",
+    "phase": 2,
+    "order": 9,
+    "text": "Do you enjoy working with data regularly?",
+    "type": "binary",
+    "stage": "analyst",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Yes",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "No",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q10",
+    "phase": 2,
+    "order": 10,
+    "text": "I enjoy experimenting with new tools and technologies.",
+    "type": "likert",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q11",
+    "phase": 2,
+    "order": 11,
+    "text": "How do you prefer to learn a new skill?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "By building and practicing immediately",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "By studying theory and concepts first",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "By experimenting and exploring ideas",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "By following a structured plan or guide",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q12",
+    "phase": 2,
+    "order": 12,
+    "text": "If your team is stuck in a problem, what role do you take?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Start building a working solution",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyze the issue in detail",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Suggest new ideas or approaches",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Reorganize tasks and workflow",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q13",
+    "phase": 2,
+    "order": 13,
+    "text": "What do you value more?",
+    "type": "binary",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Innovation and experimentation",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Stability and reliability",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q14",
+    "phase": 2,
+    "order": 14,
+    "text": "If a bug appears repeatedly, what would you do?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Fix it immediately",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyze the root cause thoroughly",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Try an alternative solution",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Improve the system design to prevent it",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q15",
+    "phase": 2,
+    "order": 15,
+    "text": "I prefer working within structured workflows and processes.",
+    "type": "likert",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q16",
+    "phase": 2,
+    "order": 16,
+    "text": "What motivates you the most in a project?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Delivering a working product",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Gaining insights and understanding",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Discovering innovative ideas",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Maintaining a reliable system",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q17",
+    "phase": 2,
+    "order": 17,
+    "text": "Do you enjoy solving logical and analytical problems?",
+    "type": "binary",
+    "stage": "analyst",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Yes",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "No",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q18",
+    "phase": 2,
+    "order": 18,
+    "text": "When you face with a completely new problem, what do you do first?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Build a quick prototype",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Study and understand the problem deeply",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Explore multiple possible ideas",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Create a structured plan",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q19",
+    "phase": 2,
+    "order": 19,
+    "text": "What do you rely more on?",
+    "type": "binary",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Logic and reasoning",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Creativity and intuition",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q20",
+    "phase": 2,
+    "order": 20,
+    "text": "I enjoy planning long-term technical strategies and systems.",
+    "type": "likert",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q21",
+    "phase": 2,
+    "order": 21,
+    "text": "Which type of outcome would satisfy you the most?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "A working application or product",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "A meaningful insight or report",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "A creative idea or concept",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "A stable and scalable system",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q22",
+    "phase": 2,
+    "order": 22,
+    "text": "I enjoy improving and optimizing systems over time.",
+    "type": "likert",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.3,
+          0.3,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q23",
+    "phase": 2,
+    "order": 23,
+    "text": "Which type of work are you most comfortable with?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Development and coding",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analysis and research",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Ideation and experimentation",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Operations and system management",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q24",
+    "phase": 2,
+    "order": 24,
+    "text": "What do you prefer?",
+    "type": "binary",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Research and exploration",
+        "weights": [
+          0.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Development and implementation",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q25",
+    "phase": 2,
+    "order": 25,
+    "text": "Do you prefer learning independently without guidance?",
+    "type": "binary",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Yes",
+        "weights": [
+          0.5,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "No",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q26",
+    "phase": 2,
+    "order": 26,
+    "text": "When you want to improve system performance, where do you start?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "strong",
+    "options": [
+      {
+        "text": "Optimizing code and execution",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyzing metrics and performance data",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Exploring alternative approaches",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Redesigning the system architecture",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S2_Q27",
+    "phase": 2,
+    "order": 27,
+    "text": "I prefer hands-on, practical work over theoretical thinking.",
+    "type": "likert",
+    "stage": "common",
+    "category": "targeted",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q1",
+    "phase": 3,
+    "order": 1,
+    "text": "I enjoy building applications or solutions from scratch.",
+    "type": "likert",
+    "stage": "builder",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q2",
+    "phase": 3,
+    "order": 2,
+    "text": "In a hackathon with limited time, what would you focus on the most?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Building and delivering a working product",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Understanding and analyzing the problem deeply",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Creating innovative ideas or unique solutions",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Ensuring the system is stable and reliable",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q3",
+    "phase": 3,
+    "order": 3,
+    "text": "Do you prefer to work on structured tasks rather than open-ended problems?",
+    "type": "binary",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Yes",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "text": "No",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q4",
+    "phase": 3,
+    "order": 4,
+    "text": "If project requirements changes suddenly, what would you do first?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Update the implementation quickly to match the new requirements",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyze the impact of the change before taking action",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Rethink the solution creatively and explore alternatives",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Adjust the overall plan and workflow accordingly",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q5",
+    "phase": 3,
+    "order": 5,
+    "text": "I enjoy working with data, patterns, and analytical insights.",
+    "type": "likert",
+    "stage": "analyst",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q6",
+    "phase": 3,
+    "order": 6,
+    "text": "What do you prefer more in your work?",
+    "type": "binary",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Building and implementing solutions",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Designing and structuring systems",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q7",
+    "phase": 3,
+    "order": 7,
+    "text": "If a bug occurs repeatedly in your system, what would you do first?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Fix the issue immediately in the implementation",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Analyze the root cause in detail",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Rethink the approach and explore alternative solutions",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Redesign the system to prevent future issues",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q8",
+    "phase": 3,
+    "order": 8,
+    "text": "I prefer planning tasks in a structured and organized manner.",
+    "type": "likert",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q9",
+    "phase": 3,
+    "order": 9,
+    "text": "Do you enjoy experimenting with new ideas, tools, or approaches?",
+    "type": "binary",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Yes",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "No",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q10",
+    "phase": 3,
+    "order": 10,
+    "text": "Which type of outcome gives you satisfaction after completing a project?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Delivering a working product or application",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Gaining meaningful insights or analysis",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Creating a new idea or innovative concept",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Building a stable and well-structured system",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q11",
+    "phase": 3,
+    "order": 11,
+    "text": "In your work, what do you naturally prioritize more?",
+    "type": "binary",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Executing and implementing solutions",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Thinking and analyzing before acting",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q12",
+    "phase": 3,
+    "order": 12,
+    "text": "I like optimizing systems to improve performance and efficiency.",
+    "type": "likert",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q13",
+    "phase": 3,
+    "order": 13,
+    "text": "Do you prefer making decisions based on data and evidence rather than intuition?",
+    "type": "binary",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Yes",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "No",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q14",
+    "phase": 3,
+    "order": 14,
+    "text": "How do you prefer to approach learning something new?",
+    "type": "mcq",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "By practicing and applying it immediately",
+        "weights": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "By understanding the theory and fundamentals first",
+        "weights": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "By experimenting and exploring different ideas",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "By following a structured plan or step-by-step approach",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S3_Q15",
+    "phase": 3,
+    "order": 15,
+    "text": "I enjoy generating new ideas and exploring creative possibilities.",
+    "type": "likert",
+    "stage": "common",
+    "category": "reconfirmation",
+    "options": [
+      {
+        "text": "Agree",
+        "weights": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Neutral",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "text": "Disagree",
+        "weights": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+dataset,row_count,column_count,missing_rate,duplicate_rate,date_coverage,role_coverage,skill_coverage,joinability,temporal_quality,leakage_risk,data_quality_score,recommendation
+adzuna_cleaned.csv,17350,14,0.0,0.0,2023-05 to 2025-10,39,N/A,100%,High-frequency Monthly,SAFE,98.5,CORE_TRAINING_BACKBONE
+linkedin_cleaned.csv,123849,14,0.0,0.0,2024-04 Snapshot,39,2000+,100%,Cross-sectional,SAFE,96.0,CORE_STRUCTURAL_PRIOR
+naukri_cleaned.csv,22000,14,0.0,0.0,2015-01 to 2017-12,39,500+,100%,Historical Snapshot,SAFE,94.0,CORE_ERA_NOVELTY
+emerging_skill_clusters_8yr.csv,91,4,0.0,0.0,2024 Survey,N/A,91,100%,Survey Benchmark,SAFE,99.0,CORE_SKILL_ADOPTION
+skill_year_percentage.csv,282,6,0.0,0.0,2015 to 2025,N/A,91,100%,Annual Longitude,SAFE,97.5,CORE_SKILL_VELOCITY
+current_roles_master_cleaned_v2.csv,29,4,0.0,0.0,Static,29,500+,100%,Occupational Knowledge,SAFE,95.0,TAXONOMIC_PRIOR
+national_M2018_M2025.xlsx,272,6,0.0,0.0,2018 to 2025,41 SOC,N/A,100%,Annual Government Series,SAFE,99.0,VALIDATION_ONLY
+1.2 Future employment growth.xlsx,1117,16,0.0,0.0,2024 to 2034,1117 SOC,N/A,100%,10-Year Projections,LOOKAHEAD RISK,99.0,VALIDATION_ONLY

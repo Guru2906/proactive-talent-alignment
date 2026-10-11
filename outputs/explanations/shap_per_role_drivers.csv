@@ -1,0 +1,391 @@
+role,driver_rank,feature,shap_value,shap_direction,avg_feature_val
+Generative AI Engineer,1,sk_vel,0.541198,positive,0.2704
+Generative AI Engineer,2,li_junior_share,0.484138,positive,0.0
+Generative AI Engineer,3,lag6,0.276148,positive,0.0
+Generative AI Engineer,4,max6m,0.260152,positive,0.0
+Generative AI Engineer,5,li_frontier_skill_ratio,0.145552,positive,0.25
+Generative AI Engineer,1,li_share,-6.50652,negative,1.373
+Generative AI Engineer,2,lag2,-1.713111,negative,0.0
+Generative AI Engineer,3,onet_skill_count,-1.498026,negative,9.0
+Generative AI Engineer,4,onet_matched,-1.469336,negative,1.0
+Generative AI Engineer,5,li_posting_count,-1.314665,negative,17.0
+AI Agent / Agentic AI Engineer,1,li_junior_share,0.486917,positive,0.0
+AI Agent / Agentic AI Engineer,2,sk_vel,0.389736,positive,0.2345
+AI Agent / Agentic AI Engineer,3,lag6,0.275986,positive,0.0
+AI Agent / Agentic AI Engineer,4,max6m,0.258336,positive,0.0
+AI Agent / Agentic AI Engineer,5,roll6m,0.133179,positive,0.0
+AI Agent / Agentic AI Engineer,1,li_share,-6.431049,negative,0.081
+AI Agent / Agentic AI Engineer,2,lag2,-1.708878,negative,0.0
+AI Agent / Agentic AI Engineer,3,onet_matched,-1.4428,negative,1.0
+AI Agent / Agentic AI Engineer,4,onet_skill_count,-1.440917,negative,9.0
+AI Agent / Agentic AI Engineer,5,az_months_active,-1.312152,negative,0.0
+AI Security Engineer,1,sk_vel,0.290861,positive,0.289
+AI Security Engineer,2,lag6,0.264172,positive,0.0
+AI Security Engineer,3,max6m,0.253128,positive,0.0
+AI Security Engineer,4,li_mid_share,0.170285,positive,0.0
+AI Security Engineer,5,roll6m,0.133543,positive,0.0
+AI Security Engineer,1,li_share,-6.290738,negative,0.161
+AI Security Engineer,2,onet_matched,-1.566927,negative,1.0
+AI Security Engineer,3,onet_skill_count,-1.517833,negative,84.0
+AI Security Engineer,4,lag2,-1.416067,negative,0.0
+AI Security Engineer,5,li_posting_count,-1.273754,negative,2.0
+MLOps Engineer,1,sk_vel,0.492614,positive,0.2643
+MLOps Engineer,2,li_junior_share,0.487132,positive,0.0
+MLOps Engineer,3,lag6,0.275823,positive,0.0
+MLOps Engineer,4,max6m,0.258795,positive,0.0
+MLOps Engineer,5,roll6m,0.134016,positive,0.0
+MLOps Engineer,1,li_share,-6.485676,negative,0.969
+MLOps Engineer,2,lag2,-1.698407,negative,0.0
+MLOps Engineer,3,onet_skill_count,-1.471591,negative,11.0
+MLOps Engineer,4,onet_matched,-1.464969,negative,1.0
+MLOps Engineer,5,li_posting_count,-1.31242,negative,12.0
+Machine Learning Engineer,1,li_skill_count,1.548481,positive,113.0
+Machine Learning Engineer,2,li_unique_industries,0.451105,positive,42.0
+Machine Learning Engineer,3,sk_vel,0.27984,positive,0.3058
+Machine Learning Engineer,4,lag6,0.24737,positive,4.8225
+Machine Learning Engineer,5,nk_share,0.213247,positive,0.0011
+Machine Learning Engineer,1,li_share,-5.536858,negative,7.994
+Machine Learning Engineer,2,onet_matched,-1.45743,negative,1.0
+Machine Learning Engineer,3,onet_skill_count,-1.335101,negative,9.0
+Machine Learning Engineer,4,li_posting_count,-1.245331,negative,99.0
+Machine Learning Engineer,5,lag2,-1.192643,negative,5.8224
+Deep Learning Engineer,1,sk_vel,0.592503,positive,0.0799
+Deep Learning Engineer,2,li_junior_share,0.477196,positive,0.0
+Deep Learning Engineer,3,lag6,0.278126,positive,0.0
+Deep Learning Engineer,4,max6m,0.257353,positive,0.0
+Deep Learning Engineer,5,li_mid_share,0.165426,positive,0.0
+Deep Learning Engineer,1,li_share,-6.48254,negative,0.242
+Deep Learning Engineer,2,lag2,-1.979027,negative,0.0
+Deep Learning Engineer,3,onet_matched,-1.418268,negative,1.0
+Deep Learning Engineer,4,az_months_active,-1.394024,negative,0.0
+Deep Learning Engineer,5,onet_skill_count,-1.375244,negative,11.0
+NLP Engineer,1,li_junior_share,0.487412,positive,0.0
+NLP Engineer,2,sk_vel,0.350147,positive,0.2531
+NLP Engineer,3,lag6,0.275449,positive,0.0
+NLP Engineer,4,max6m,0.259253,positive,0.0
+NLP Engineer,5,roll6m,0.13393,positive,0.0
+NLP Engineer,1,li_share,-6.381222,negative,0.161
+NLP Engineer,2,lag2,-1.705021,negative,0.0
+NLP Engineer,3,onet_skill_count,-1.498269,negative,11.0
+NLP Engineer,4,onet_matched,-1.462408,negative,1.0
+NLP Engineer,5,li_posting_count,-1.291271,negative,2.0
+Computer Vision Engineer,1,sk_vel,0.56814,positive,0.2914
+Computer Vision Engineer,2,li_junior_share,0.485433,positive,0.0
+Computer Vision Engineer,3,lag6,0.27569,positive,0.0
+Computer Vision Engineer,4,max6m,0.258553,positive,0.0
+Computer Vision Engineer,5,roll6m,0.132547,positive,0.0
+Computer Vision Engineer,1,li_share,-6.502466,negative,0.323
+Computer Vision Engineer,2,lag2,-1.704035,negative,0.0
+Computer Vision Engineer,3,onet_matched,-1.508595,negative,1.0
+Computer Vision Engineer,4,onet_skill_count,-1.479677,negative,261.0
+Computer Vision Engineer,5,li_posting_count,-1.315417,negative,4.0
+AI Research Scientist,1,li_junior_share,0.483932,positive,0.0
+AI Research Scientist,2,sk_vel,0.375675,positive,0.2657
+AI Research Scientist,3,lag6,0.275274,positive,0.0
+AI Research Scientist,4,max6m,0.256384,positive,0.0
+AI Research Scientist,5,roll6m,0.12991,positive,0.0
+AI Research Scientist,1,li_share,-6.365904,negative,0.484
+AI Research Scientist,2,lag2,-1.730949,negative,0.0
+AI Research Scientist,3,onet_matched,-1.551094,negative,1.0
+AI Research Scientist,4,onet_skill_count,-1.485833,negative,106.0
+AI Research Scientist,5,li_posting_count,-1.287978,negative,6.0
+Applied ML Scientist,1,li_junior_share,0.484262,positive,0.0
+Applied ML Scientist,2,sk_vel,0.473963,positive,0.2678
+Applied ML Scientist,3,lag6,0.274948,positive,0.0
+Applied ML Scientist,4,max6m,0.256842,positive,0.0
+Applied ML Scientist,5,roll6m,0.130875,positive,0.0
+Applied ML Scientist,1,li_share,-6.422397,negative,1.292
+Applied ML Scientist,2,lag2,-1.726035,negative,0.0
+Applied ML Scientist,3,onet_matched,-1.572817,negative,1.0
+Applied ML Scientist,4,onet_skill_count,-1.515438,negative,6.0
+Applied ML Scientist,5,li_posting_count,-1.298485,negative,16.0
+AI Engineer,1,sk_vel,0.486638,positive,0.2461
+AI Engineer,2,lag6,0.265632,positive,0.0
+AI Engineer,3,max6m,0.25773,positive,0.013
+AI Engineer,4,roll6m,0.126505,positive,0.0022
+AI Engineer,5,accel,0.064948,positive,0.013
+AI Engineer,1,li_share,-6.462063,negative,2.907
+AI Engineer,2,onet_skill_count,-1.471984,negative,9.0
+AI Engineer,3,onet_matched,-1.462434,negative,1.0
+AI Engineer,4,li_posting_count,-1.306063,negative,36.0
+AI Engineer,5,lag2,-1.259849,negative,0.0
+Data Engineer,1,li_skill_count,0.877475,positive,148.0
+Data Engineer,2,sk_vel,0.647852,positive,0.2392
+Data Engineer,3,lag6,0.277951,positive,0.0
+Data Engineer,4,max6m,0.209289,positive,1.5288
+Data Engineer,5,li_unique_industries,0.161442,positive,71.0
+Data Engineer,1,li_share,-7.032627,negative,31.975
+Data Engineer,2,onet_matched,-1.559946,negative,1.0
+Data Engineer,3,onet_skill_count,-1.335748,negative,76.0
+Data Engineer,4,li_posting_count,-1.291567,negative,396.0
+Data Engineer,5,lag2,-1.165472,negative,1.069
+Data Scientist,1,li_skill_count,0.895003,positive,133.0
+Data Scientist,2,sk_vel,0.313242,positive,0.277
+Data Scientist,3,lag6,0.269252,positive,0.0
+Data Scientist,4,max6m,0.258038,positive,0.2961
+Data Scientist,5,li_unique_industries,0.161442,positive,71.0
+Data Scientist,1,li_share,-6.63696,negative,19.782
+Data Scientist,2,onet_matched,-1.484912,negative,1.0
+Data Scientist,3,onet_skill_count,-1.45457,negative,76.0
+Data Scientist,4,lag2,-1.238191,negative,0.1416
+Data Scientist,5,li_posting_count,-1.219777,negative,245.0
+Data Architect,1,sk_vel,0.73304,positive,0.2149
+Data Architect,2,li_junior_share,0.490159,positive,0.0
+Data Architect,3,lag6,0.27708,positive,0.0
+Data Architect,4,max6m,0.253251,positive,0.0708
+Data Architect,5,li_mid_share,0.171202,positive,0.0
+Data Architect,1,li_share,-6.35175,negative,8.074
+Data Architect,2,lag2,-1.934345,negative,0.0354
+Data Architect,3,onet_matched,-1.581162,negative,1.0
+Data Architect,4,onet_skill_count,-1.484817,negative,76.0
+Data Architect,5,az_months_active,-1.352143,negative,0.0833
+Analytics / Data Platform Engineer,1,sk_vel,0.318933,positive,0.2982
+Analytics / Data Platform Engineer,2,lag6,0.263847,positive,0.0
+Analytics / Data Platform Engineer,3,max6m,0.253128,positive,0.0708
+Analytics / Data Platform Engineer,4,roll6m,0.12358,positive,0.0177
+Analytics / Data Platform Engineer,5,accel,0.062709,positive,0.0
+Analytics / Data Platform Engineer,1,li_share,-6.313228,negative,2.261
+Analytics / Data Platform Engineer,2,onet_matched,-1.585846,negative,1.0
+Analytics / Data Platform Engineer,3,onet_skill_count,-1.519057,negative,10.0
+Analytics / Data Platform Engineer,4,li_posting_count,-1.269183,negative,28.0
+Analytics / Data Platform Engineer,5,az_months_active,-1.201936,negative,0.0833
+Data Analyst,1,li_skill_count,0.840027,positive,121.0
+Data Analyst,2,lag6,0.272536,positive,0.0
+Data Analyst,3,max6m,0.242453,positive,1.1477
+Data Analyst,4,li_unique_industries,0.131272,positive,88.0
+Data Analyst,5,sk_vel,0.122372,positive,0.3818
+Data Analyst,1,li_share,-6.688079,negative,35.527
+Data Analyst,2,onet_matched,-1.564364,negative,1.0
+Data Analyst,3,onet_skill_count,-1.37654,negative,76.0
+Data Analyst,4,li_posting_count,-1.232781,negative,440.0
+Data Analyst,5,lag2,-1.151246,negative,0.841
+ETL Developer,1,sk_vel,0.777907,positive,0.1775
+ETL Developer,2,li_junior_share,0.484877,positive,0.0
+ETL Developer,3,lag6,0.278285,positive,0.0
+ETL Developer,4,max6m,0.25525,positive,0.013
+ETL Developer,5,roll6m,0.126822,positive,0.0022
+ETL Developer,1,li_share,-6.53937,negative,2.342
+ETL Developer,2,lag2,-1.709214,negative,0.0
+ETL Developer,3,onet_matched,-1.603327,negative,1.0
+ETL Developer,4,onet_skill_count,-1.405614,negative,219.0
+ETL Developer,5,az_months_active,-1.377831,negative,0.0417
+Database Administrator,1,onet_skill_count,29.255001,positive,263.0
+Database Administrator,2,onet_match_similarity,3.249884,positive,1.0
+Database Administrator,3,lag2,2.943293,positive,37.2723
+Database Administrator,4,onet_emerging_relevance,1.110845,positive,0.0556
+Database Administrator,5,std3m,1.091701,positive,10.8766
+Database Administrator,1,li_share,-8.511865,negative,16.633
+Database Administrator,2,li_junior_share,-1.783852,negative,0.0291
+Database Administrator,3,li_posting_count,-1.624146,negative,206.0
+Database Administrator,4,onet_matched,-1.364807,negative,1.0
+Database Administrator,5,max6m,-1.046266,negative,67.0943
+Platform Engineer,1,li_junior_share,0.488064,positive,0.0
+Platform Engineer,2,sk_vel,0.453331,positive,0.255
+Platform Engineer,3,lag6,0.280748,positive,0.0
+Platform Engineer,4,max6m,0.203964,positive,2.1916
+Platform Engineer,5,li_mid_share,0.171063,positive,0.4167
+Platform Engineer,1,li_share,-6.425673,negative,3.876
+Platform Engineer,2,lag2,-1.887884,negative,1.7325
+Platform Engineer,3,onet_matched,-1.433602,negative,1.0
+Platform Engineer,4,onet_skill_count,-1.374229,negative,9.0
+Platform Engineer,5,az_months_active,-1.281343,negative,0.25
+Site Reliability Engineer (SRE),1,sk_vel,0.4929,positive,0.2349
+Site Reliability Engineer (SRE),2,li_junior_share,0.489849,positive,0.0
+Site Reliability Engineer (SRE),3,lag6,0.27981,positive,0.0
+Site Reliability Engineer (SRE),4,max6m,0.258753,positive,0.0968
+Site Reliability Engineer (SRE),5,roll6m,0.131022,positive,0.022
+Site Reliability Engineer (SRE),1,li_share,-6.426073,negative,8.801
+Site Reliability Engineer (SRE),2,lag2,-1.683856,negative,0.0354
+Site Reliability Engineer (SRE),3,onet_matched,-1.441216,negative,1.0
+Site Reliability Engineer (SRE),4,onet_skill_count,-1.370284,negative,9.0
+Site Reliability Engineer (SRE),5,az_months_active,-1.272691,negative,0.125
+DevOps / DevSecOps Engineer,1,sk_vel,0.668068,positive,0.2235
+DevOps / DevSecOps Engineer,2,li_junior_share,0.493066,positive,0.0157
+DevOps / DevSecOps Engineer,3,lag6,0.286142,positive,0.0
+DevOps / DevSecOps Engineer,4,max6m,0.251607,positive,0.8965
+DevOps / DevSecOps Engineer,5,li_unique_industries,0.161442,positive,43.0
+DevOps / DevSecOps Engineer,1,li_share,-6.846817,negative,15.422
+DevOps / DevSecOps Engineer,2,lag2,-1.675111,negative,0.6129
+DevOps / DevSecOps Engineer,3,onet_matched,-1.450349,negative,1.0
+DevOps / DevSecOps Engineer,4,onet_skill_count,-1.316587,negative,11.0
+DevOps / DevSecOps Engineer,5,li_posting_count,-1.290929,negative,191.0
+Cloud Security Engineer,1,sk_vel,0.549155,positive,0.2652
+Cloud Security Engineer,2,lag6,0.266622,positive,0.0
+Cloud Security Engineer,3,max6m,0.257882,positive,0.7219
+Cloud Security Engineer,4,roll6m,0.11835,positive,0.3609
+Cloud Security Engineer,5,skill_novelty_index,0.101122,positive,0.0
+Cloud Security Engineer,1,li_share,-6.503427,negative,1.05
+Cloud Security Engineer,2,onet_skill_count,-1.43727,negative,84.0
+Cloud Security Engineer,3,onet_matched,-1.425339,negative,1.0
+Cloud Security Engineer,4,li_posting_count,-1.295705,negative,13.0
+Cloud Security Engineer,5,az_months_active,-1.285347,negative,0.2083
+Cloud Engineer / Architect,1,sk_vel,0.50821,positive,0.2443
+Cloud Engineer / Architect,2,li_junior_share,0.485256,positive,0.0058
+Cloud Engineer / Architect,3,lag6,0.277172,positive,0.0
+Cloud Engineer / Architect,4,max6m,0.257878,positive,0.1416
+Cloud Engineer / Architect,5,li_mid_share,0.171477,positive,0.4327
+Cloud Engineer / Architect,1,li_share,-6.491499,negative,13.807
+Cloud Engineer / Architect,2,lag2,-1.884787,negative,0.0708
+Cloud Engineer / Architect,3,onet_matched,-1.433538,negative,1.0
+Cloud Engineer / Architect,4,onet_skill_count,-1.406975,negative,10.0
+Cloud Engineer / Architect,5,az_months_active,-1.355555,negative,0.0833
+Cloud Infrastructure Engineer,1,sk_vel,0.739366,positive,0.2235
+Cloud Infrastructure Engineer,2,li_junior_share,0.487194,positive,0.0
+Cloud Infrastructure Engineer,3,lag6,0.278056,positive,0.0
+Cloud Infrastructure Engineer,4,max6m,0.257878,positive,0.0
+Cloud Infrastructure Engineer,5,roll6m,0.132733,positive,0.0
+Cloud Infrastructure Engineer,1,li_share,-6.501643,negative,6.944
+Cloud Infrastructure Engineer,2,lag2,-1.710901,negative,0.0
+Cloud Infrastructure Engineer,3,onet_matched,-1.448991,negative,1.0
+Cloud Infrastructure Engineer,4,onet_skill_count,-1.409567,negative,9.0
+Cloud Infrastructure Engineer,5,az_months_active,-1.369643,negative,0.0
+Cybersecurity Engineer,1,li_skill_count,0.8827,positive,130.0
+Cybersecurity Engineer,2,sk_vel,0.519467,positive,0.2895
+Cybersecurity Engineer,3,lag6,0.269891,positive,0.0
+Cybersecurity Engineer,4,max6m,0.242641,positive,1.0912
+Cybersecurity Engineer,5,li_unique_industries,0.161442,positive,58.0
+Cybersecurity Engineer,1,li_share,-6.770394,negative,19.298
+Cybersecurity Engineer,2,onet_matched,-1.437628,negative,1.0
+Cybersecurity Engineer,3,onet_skill_count,-1.372127,negative,9.0
+Cybersecurity Engineer,4,li_posting_count,-1.250481,negative,239.0
+Cybersecurity Engineer,5,az_months_active,-1.203272,negative,0.1667
+Security Analyst / Pen Tester,1,onet_emerging_relevance,0.480145,positive,0.0
+Security Analyst / Pen Tester,2,sk_vel,0.476488,positive,0.286
+Security Analyst / Pen Tester,3,lag6,0.272179,positive,0.0
+Security Analyst / Pen Tester,4,max6m,0.256957,positive,0.4259
+Security Analyst / Pen Tester,5,li_unique_industries,0.131272,positive,44.0
+Security Analyst / Pen Tester,1,li_share,-7.15241,negative,10.093
+Security Analyst / Pen Tester,2,onet_matched,-1.443259,negative,1.0
+Security Analyst / Pen Tester,3,onet_skill_count,-1.362253,negative,224.0
+Security Analyst / Pen Tester,4,li_posting_count,-1.259584,negative,125.0
+Security Analyst / Pen Tester,5,lag2,-1.192006,negative,0.2635
+Full Stack Engineer,1,li_skill_count,0.837584,positive,120.0
+Full Stack Engineer,2,sk_vel,0.669045,positive,0.2208
+Full Stack Engineer,3,lag6,0.27795,positive,0.0
+Full Stack Engineer,4,max6m,0.243504,positive,1.3094
+Full Stack Engineer,5,li_unique_industries,0.131272,positive,54.0
+Full Stack Engineer,1,li_share,-7.026748,negative,17.36
+Full Stack Engineer,2,onet_matched,-1.571862,negative,1.0
+Full Stack Engineer,3,onet_skill_count,-1.339137,negative,9.0
+Full Stack Engineer,4,li_posting_count,-1.290342,negative,215.0
+Full Stack Engineer,5,lag2,-1.188829,negative,0.8764
+Backend Engineer,1,sk_vel,0.38128,positive,0.2693
+Backend Engineer,2,lag6,0.26532,positive,0.0
+Backend Engineer,3,max6m,0.257948,positive,0.0
+Backend Engineer,4,roll6m,0.122259,positive,0.0
+Backend Engineer,5,accel,0.064592,positive,0.0
+Backend Engineer,1,li_share,-6.187404,negative,9.205
+Backend Engineer,2,onet_matched,-1.542652,negative,1.0
+Backend Engineer,3,onet_skill_count,-1.511419,negative,11.0
+Backend Engineer,4,lag2,-1.263006,negative,0.0
+Backend Engineer,5,az_months_active,-1.224344,negative,0.0
+Frontend Engineer,1,li_junior_share,0.484643,positive,0.0099
+Frontend Engineer,2,lag6,0.27476,positive,0.0
+Frontend Engineer,3,max6m,0.256729,positive,0.7219
+Frontend Engineer,4,sk_vel,0.136646,positive,0.2528
+Frontend Engineer,5,roll6m,0.120716,positive,0.3609
+Frontend Engineer,1,li_share,-6.0578,negative,8.155
+Frontend Engineer,2,lag2,-1.707395,negative,0.5775
+Frontend Engineer,3,onet_matched,-1.554505,negative,1.0
+Frontend Engineer,4,onet_skill_count,-1.509002,negative,9.0
+Frontend Engineer,5,az_months_active,-1.250953,negative,0.2083
+Software Engineer,1,li_share,146.425095,positive,129.514
+Software Engineer,2,li_posting_count,29.422254,positive,1604.0
+Software Engineer,3,onet_skill_count,15.718633,positive,381.0
+Software Engineer,4,lag2,6.251902,positive,127.4491
+Software Engineer,5,era_novelty_score,3.700395,positive,0.4657
+Software Engineer,1,sk_vel,-28.872266,negative,0.3115
+Software Engineer,2,slope6m,-9.578636,negative,11.7249
+Software Engineer,3,az_months_active,-9.167908,negative,2.2917
+Software Engineer,4,li_junior_share,-4.251764,negative,0.0355
+Software Engineer,5,lag6,-4.195277,negative,79.8164
+Python Developer,1,sk_vel,0.634058,positive,0.2089
+Python Developer,2,lag6,0.267536,positive,0.0
+Python Developer,3,max6m,0.256596,positive,0.039
+Python Developer,4,roll6m,0.12454,positive,0.0065
+Python Developer,5,accel,0.063895,positive,0.039
+Python Developer,1,li_share,-6.438969,negative,5.894
+Python Developer,2,onet_matched,-1.4265,negative,1.0
+Python Developer,3,onet_skill_count,-1.381391,negative,10.0
+Python Developer,4,az_months_active,-1.326581,negative,0.0417
+Python Developer,5,lag2,-1.263781,negative,0.0
+Java Developer,1,sk_vel,0.919473,positive,0.1741
+Java Developer,2,lag6,0.269354,positive,0.0
+Java Developer,3,max6m,0.254949,positive,0.0909
+Java Developer,4,roll6m,0.121371,positive,0.0151
+Java Developer,5,accel,0.064,positive,0.0909
+Java Developer,1,li_share,-6.727028,negative,13.969
+Java Developer,2,onet_matched,-1.479289,negative,1.0
+Java Developer,3,onet_skill_count,-1.408002,negative,14.0
+Java Developer,4,az_months_active,-1.341685,negative,0.0417
+Java Developer,5,li_posting_count,-1.279428,negative,173.0
+Mobile App Developer,1,sk_vel,0.749219,positive,0.185
+Mobile App Developer,2,lag6,0.267956,positive,0.0
+Mobile App Developer,3,max6m,0.255929,positive,0.7219
+Mobile App Developer,4,roll6m,0.111752,positive,0.3609
+Mobile App Developer,5,skill_novelty_index,0.101055,positive,0.0
+Mobile App Developer,1,li_share,-6.313919,negative,5.491
+Mobile App Developer,2,onet_matched,-1.568831,negative,1.0
+Mobile App Developer,3,onet_skill_count,-1.484261,negative,10.0
+Mobile App Developer,4,az_months_active,-1.315124,negative,0.2083
+Mobile App Developer,5,lag2,-1.260577,negative,0.5775
+Embedded Systems / Firmware Engineer,1,sk_vel,0.696841,positive,0.2483
+Embedded Systems / Firmware Engineer,2,lag6,0.266764,positive,0.0
+Embedded Systems / Firmware Engineer,3,max6m,0.254115,positive,0.013
+Embedded Systems / Firmware Engineer,4,roll6m,0.121446,positive,0.0022
+Embedded Systems / Firmware Engineer,5,skill_novelty_index,0.101444,positive,0.0
+Embedded Systems / Firmware Engineer,1,li_share,-6.470146,negative,2.584
+Embedded Systems / Firmware Engineer,2,onet_matched,-1.595245,negative,1.0
+Embedded Systems / Firmware Engineer,3,onet_skill_count,-1.490012,negative,10.0
+Embedded Systems / Firmware Engineer,4,az_months_active,-1.281033,negative,0.0417
+Embedded Systems / Firmware Engineer,5,li_posting_count,-1.260917,negative,32.0
+Quantum Computing Engineer,1,li_junior_share,0.455874,positive,0.0
+Quantum Computing Engineer,2,lag6,0.279805,positive,0.0
+Quantum Computing Engineer,3,max6m,0.257269,positive,0.0
+Quantum Computing Engineer,4,li_mid_share,0.154402,positive,0.0
+Quantum Computing Engineer,5,roll6m,0.131687,positive,0.0
+Quantum Computing Engineer,1,li_share,-6.187674,negative,0.0
+Quantum Computing Engineer,2,lag2,-1.987982,negative,0.0
+Quantum Computing Engineer,3,az_months_active,-1.449269,negative,0.0
+Quantum Computing Engineer,4,onet_skill_count,-1.234041,negative,9.0
+Quantum Computing Engineer,5,li_posting_count,-1.224215,negative,0.0
+Edge AI Engineer,1,li_junior_share,0.455874,positive,0.0
+Edge AI Engineer,2,lag6,0.279805,positive,0.0
+Edge AI Engineer,3,max6m,0.257269,positive,0.0
+Edge AI Engineer,4,li_mid_share,0.154402,positive,0.0
+Edge AI Engineer,5,roll6m,0.131687,positive,0.0
+Edge AI Engineer,1,li_share,-6.187674,negative,0.0
+Edge AI Engineer,2,lag2,-1.987982,negative,0.0
+Edge AI Engineer,3,az_months_active,-1.449269,negative,0.0
+Edge AI Engineer,4,onet_skill_count,-1.234041,negative,11.0
+Edge AI Engineer,5,li_posting_count,-1.224215,negative,0.0
+Robotics Engineer,1,li_junior_share,0.48867,positive,0.0
+Robotics Engineer,2,sk_vel,0.349159,positive,0.3444
+Robotics Engineer,3,lag6,0.275444,positive,0.0
+Robotics Engineer,4,max6m,0.255396,positive,0.0
+Robotics Engineer,5,li_mid_share,0.171196,positive,0.3636
+Robotics Engineer,1,li_share,-6.390236,negative,0.888
+Robotics Engineer,2,lag2,-1.896896,negative,0.0
+Robotics Engineer,3,onet_matched,-1.545937,negative,1.0
+Robotics Engineer,4,onet_skill_count,-1.512422,negative,9.0
+Robotics Engineer,5,az_months_active,-1.291312,negative,0.0
+Technical Product Manager,1,li_share,159.048585,positive,41.18
+Technical Product Manager,2,onet_matched,34.464451,positive,0.0
+Technical Product Manager,3,li_posting_count,34.118766,positive,510.0
+Technical Product Manager,4,az_months_active,32.814972,positive,3.4167
+Technical Product Manager,5,lag2,16.493258,positive,227.2138
+Technical Product Manager,1,sk_vel,-24.953675,negative,0.4107
+Technical Product Manager,2,roll6m,-1.530011,negative,166.3325
+Technical Product Manager,3,nk_share,-0.929895,negative,0.0511
+Technical Product Manager,4,max6m,-0.677547,negative,275.1391
+Technical Product Manager,5,roll3m,-0.610266,negative,227.2649
+Scrum Master,1,onet_matched,72.494281,positive,0.0
+Scrum Master,2,lag2,8.672331,positive,84.1758
+Scrum Master,3,onet_skill_count,7.004468,positive,0.0
+Scrum Master,4,lag1,6.413988,positive,91.6265
+Scrum Master,5,std3m,1.575669,positive,19.6706
+Scrum Master,1,li_share,-6.662226,negative,7.025
+Scrum Master,2,li_junior_share,-3.236996,negative,0.023
+Scrum Master,3,sk_vel,-2.94541,negative,0.3811
+Scrum Master,4,li_posting_count,-1.365422,negative,87.0
+Scrum Master,5,roll6m,-1.330136,negative,67.436

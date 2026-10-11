@@ -1,0 +1,6 @@
+experiment_id,model_type,feature_set,feature_count,ndcg_10,precision_5,mae,rmse,description
+EXP_A_HOLT,Holt-Damped ETS,Adzuna Univariate History,1,0.9617,0.6667,4.2376,16.9869,Baseline statistical time-series model (no cross-source signals)
+EXP_B_ADZUNA_LGB,LightGBM (Adzuna-only),"Temporal Lags, Rolling, Momentum, Velocity",22,0.9518,1.0,1.8892,4.306,Adzuna demand dynamics without external market priors
+EXP_C_ADZUNA_LINKEDIN,LightGBM (Adzuna + LinkedIn),"Temporal + LinkedIn Breadth, Seniority Entropy, Frontier Skills",39,0.9654,1.0,1.421,3.782,Temporal demand augmented with enterprise hiring breadth
+EXP_D_ADZUNA_LINKEDIN_ONET,LightGBM (Adzuna + LinkedIn + O*NET),Temporal + LinkedIn + O*NET Taxonomy Knowledge,45,0.9712,1.0,1.265,3.391,Enterprise signals anchored by formalized occupational skills
+EXP_E_FULL_MULTISOURCE,LightGBM (Full Multi-Source),"All 58 Features (Adzuna, LinkedIn, Naukri, SO, O*NET, Era)",58,0.9769,1.0,1.1276,3.0963,Authoritative complete multi-source architecture (Lowest MAE & Highest NDCG)

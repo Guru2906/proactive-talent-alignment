@@ -1,0 +1,40 @@
+rank,role,pred_share_bps_12m,baseline_share_bps,growth_bps_12m,growth_pct_12m,emergence_tier_12m,li_posting_count,li_unique_companies,li_frontier_skill_ratio,skill_ai_tool_count,era_novelty_score
+1,Cloud Infrastructure Engineer,0.83,0.0,0.83,83.0,Very High (Emerging Leader),86,57,0.0152,1,0.9012
+2,Deep Learning Engineer,0.69,0.0,0.69,69.0,Very High (Emerging Leader),3,2,0.1905,0,0.937
+3,Quantum Computing Engineer,0.63,0.0,0.63,63.0,Very High (Emerging Leader),0,0,0.0,0,1.0
+4,Edge AI Engineer,0.63,0.0,0.63,63.0,Very High (Emerging Leader),0,0,0.0,0,1.0
+5,Generative AI Engineer,0.57,0.0,0.57,57.0,Very High (Emerging Leader),17,15,0.25,1,1.0
+6,Backend Engineer,0.55,0.0,0.55,55.0,Very High (Emerging Leader),114,67,0.0278,2,0.7755
+7,Robotics Engineer,0.37,0.0,0.37,37.0,Very High (Emerging Leader),11,10,0.0588,0,1.0
+8,Machine Learning Engineer,2.73,2.41,0.32,13.3,Very High (Emerging Leader),99,77,0.1504,3,0.9336
+9,AI Security Engineer,0.28,0.0,0.28,28.0,Very High (Emerging Leader),2,1,0.1429,0,1.0
+10,Embedded Systems / Firmware Engineer,0.59,0.31,0.28,28.0,Very High (Emerging Leader),32,25,0.0,0,0.7793
+11,NLP Engineer,0.27,0.0,0.27,27.0,High (Solid Expansion),2,2,0.1333,0,1.0
+12,MLOps Engineer,0.27,0.0,0.27,27.0,High (Solid Expansion),12,9,0.119,1,1.0
+13,AI Agent / Agentic AI Engineer,0.27,0.0,0.27,27.0,High (Solid Expansion),1,1,0.1,0,1.0
+14,AI Research Scientist,0.25,0.0,0.25,25.0,High (Solid Expansion),6,5,0.15,0,1.0
+15,Computer Vision Engineer,0.25,0.0,0.25,25.0,High (Solid Expansion),4,3,0.1333,0,0.9995
+16,Applied ML Scientist,0.25,0.0,0.25,25.0,High (Solid Expansion),16,9,0.1,1,0.9281
+17,ETL Developer,0.3,0.31,-0.01,-1.0,High (Solid Expansion),29,25,0.0,3,0.8355
+18,AI Engineer,0.27,0.31,-0.04,-4.0,High (Solid Expansion),36,30,0.0694,3,1.0
+19,Data Architect,0.44,0.85,-0.41,-41.0,High (Solid Expansion),100,80,0.022,3,0.8636
+20,Python Developer,0.32,0.93,-0.61,-61.0,High (Solid Expansion),73,63,0.0625,3,0.8272
+21,Analytics / Data Platform Engineer,0.02,0.85,-0.83,-83.0,Contracting / Plateau,28,26,0.0192,1,0.9763
+22,Site Reliability Engineer (SRE),0.58,1.47,-0.89,-60.5,Contracting / Plateau,109,84,0.0,1,0.8872
+23,Cloud Engineer / Architect,0.57,1.7,-1.13,-66.5,Contracting / Plateau,171,134,0.0196,3,0.8412
+24,Java Developer,0.34,2.18,-1.84,-84.4,Contracting / Plateau,173,131,0.0092,3,0.7111
+25,Database Administrator,4.73,7.24,-2.51,-34.7,Contracting / Plateau,206,156,0.0,2,0.762
+26,Data Scientist,1.07,3.71,-2.64,-71.2,Contracting / Plateau,245,174,0.0977,3,0.8478
+27,Frontend Engineer,0.55,3.47,-2.92,-84.1,Contracting / Plateau,101,63,0.0099,2,0.8895
+28,Mobile App Developer,0.55,3.47,-2.92,-84.1,Contracting / Plateau,68,58,0.0,0,0.6113
+29,Security Analyst / Pen Tester,0.76,3.9,-3.14,-80.5,Contracting / Plateau,125,106,0.0,0,0.9176
+30,Cloud Security Engineer,0.31,3.47,-3.16,-91.1,Contracting / Plateau,13,13,0.0,0,1.0
+31,DevOps / DevSecOps Engineer,0.42,6.81,-6.39,-93.8,Contracting / Plateau,191,155,0.0286,3,0.7837
+32,Data Analyst,0.84,7.36,-6.52,-88.6,Contracting / Plateau,440,304,0.0083,3,0.9201
+33,Cybersecurity Engineer,0.66,9.77,-9.11,-93.2,Contracting / Plateau,239,170,0.0308,2,0.9414
+34,Full Stack Engineer,0.79,10.39,-9.6,-92.4,Contracting / Plateau,215,163,0.0083,3,0.7683
+35,Platform Engineer,0.0,11.02,-11.02,-100.0,Contracting / Plateau,48,36,0.0308,0,0.9106
+36,Data Engineer,0.0,11.03,-11.03,-100.0,Contracting / Plateau,396,276,0.0405,6,0.8795
+37,Scrum Master,0.0,178.82,-178.82,-100.0,Contracting / Plateau,87,69,0.0,0,0.9491
+38,Software Engineer,1.88,248.63,-246.75,-99.2,Contracting / Plateau,1604,786,0.0538,5,0.4657
+39,Technical Product Manager,0.0,1150.21,-1150.21,-100.0,Contracting / Plateau,510,350,0.0606,2,0.8963

@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.hypothesis/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Large raw datasets (> 50MB and intermediate scraping CSV dumps)
+data/raw/postings.csv
+data/01_raw/linkedin/postings.csv
+data/01_raw/job_market/combined_jobs.csv
+data/raw/processed_data/combined_jobs.csv
+data/01_raw/
+data/02_clean/
+data/raw/
+
+# Heavy numerical binary embeddings (reproducible from pipeline)
+data/features/embeddings/*.npy
+data/embeddings/*.npy
+
+# SQLite runtime database instances
+data/application/*.db
+*.db
+*.db-journal
+*.sqlite3
+
+# Logs
+*.log

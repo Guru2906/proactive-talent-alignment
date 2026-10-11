@@ -1,0 +1,423 @@
+canonical_industry_id,source_industry_id,canonical_industry_name,is_tech_sector,source_standard
+IND_0001,1,Defense and Space Manufacturing,1,LinkedIn Industry Classification System
+IND_0003,3,Computer Hardware Manufacturing,1,LinkedIn Industry Classification System
+IND_0004,4,Software Development,1,LinkedIn Industry Classification System
+IND_0005,5,Computer Networking Products,0,LinkedIn Industry Classification System
+IND_0006,6,"Technology, Information and Internet",1,LinkedIn Industry Classification System
+IND_0007,7,Semiconductor Manufacturing,0,LinkedIn Industry Classification System
+IND_0008,8,Telecommunications,1,LinkedIn Industry Classification System
+IND_0009,9,Law Practice,0,LinkedIn Industry Classification System
+IND_0010,10,Legal Services,0,LinkedIn Industry Classification System
+IND_0011,11,Business Consulting and Services,0,LinkedIn Industry Classification System
+IND_0012,12,Biotechnology Research,1,LinkedIn Industry Classification System
+IND_0013,13,Medical Practices,0,LinkedIn Industry Classification System
+IND_0014,14,Hospitals and Health Care,0,LinkedIn Industry Classification System
+IND_0015,15,Pharmaceutical Manufacturing,0,LinkedIn Industry Classification System
+IND_0016,16,Veterinary Services,0,LinkedIn Industry Classification System
+IND_0017,17,Medical Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_0018,18,Personal Care Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0019,19,Retail Apparel and Fashion,0,LinkedIn Industry Classification System
+IND_0020,20,Sporting Goods Manufacturing,0,LinkedIn Industry Classification System
+IND_0021,21,Tobacco Manufacturing,0,LinkedIn Industry Classification System
+IND_0022,22,Retail Groceries,0,LinkedIn Industry Classification System
+IND_0023,23,Food and Beverage Manufacturing,0,LinkedIn Industry Classification System
+IND_0024,24,Computers and Electronics Manufacturing,0,LinkedIn Industry Classification System
+IND_0025,25,Manufacturing,0,LinkedIn Industry Classification System
+IND_0026,26,Furniture and Home Furnishings Manufacturing,0,LinkedIn Industry Classification System
+IND_0027,27,Retail,0,LinkedIn Industry Classification System
+IND_0028,28,Entertainment Providers,0,LinkedIn Industry Classification System
+IND_0029,29,Gambling Facilities and Casinos,0,LinkedIn Industry Classification System
+IND_0030,30,Travel Arrangements,0,LinkedIn Industry Classification System
+IND_0031,31,Hospitality,0,LinkedIn Industry Classification System
+IND_0032,32,Restaurants,0,LinkedIn Industry Classification System
+IND_0033,33,Spectator Sports,0,LinkedIn Industry Classification System
+IND_0034,34,Food and Beverage Services,0,LinkedIn Industry Classification System
+IND_0035,35,"Movies, Videos, and Sound",0,LinkedIn Industry Classification System
+IND_0036,36,Broadcast Media Production and Distribution,0,LinkedIn Industry Classification System
+IND_0037,37,"Museums, Historical Sites, and Zoos",0,LinkedIn Industry Classification System
+IND_0038,38,Artists and Writers,0,LinkedIn Industry Classification System
+IND_0039,39,Performing Arts,0,LinkedIn Industry Classification System
+IND_0040,40,Recreational Facilities,0,LinkedIn Industry Classification System
+IND_0041,41,Banking,0,LinkedIn Industry Classification System
+IND_0042,42,Insurance,0,LinkedIn Industry Classification System
+IND_0043,43,Financial Services,0,LinkedIn Industry Classification System
+IND_0044,44,Real Estate,0,LinkedIn Industry Classification System
+IND_0045,45,Investment Banking,0,LinkedIn Industry Classification System
+IND_0046,46,Investment Management,0,LinkedIn Industry Classification System
+IND_0047,47,Accounting,0,LinkedIn Industry Classification System
+IND_0048,48,Construction,0,LinkedIn Industry Classification System
+IND_0049,49,Wholesale Building Materials,0,LinkedIn Industry Classification System
+IND_0050,50,Architecture and Planning,0,LinkedIn Industry Classification System
+IND_0051,51,Civil Engineering,0,LinkedIn Industry Classification System
+IND_0052,52,Aviation and Aerospace Component Manufacturing,0,LinkedIn Industry Classification System
+IND_0053,53,Motor Vehicle Manufacturing,0,LinkedIn Industry Classification System
+IND_0054,54,Chemical Manufacturing,0,LinkedIn Industry Classification System
+IND_0055,55,Machinery Manufacturing,0,LinkedIn Industry Classification System
+IND_0056,56,Mining,0,LinkedIn Industry Classification System
+IND_0057,57,Oil and Gas,0,LinkedIn Industry Classification System
+IND_0058,58,Shipbuilding,0,LinkedIn Industry Classification System
+IND_0059,59,Utilities,0,LinkedIn Industry Classification System
+IND_0060,60,Textile Manufacturing,0,LinkedIn Industry Classification System
+IND_0061,61,Paper and Forest Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0062,62,Railroad Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_0063,63,Farming,0,LinkedIn Industry Classification System
+IND_0065,65,Dairy Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0066,66,Fisheries,0,LinkedIn Industry Classification System
+IND_0067,67,Primary and Secondary Education,0,LinkedIn Industry Classification System
+IND_0068,68,Higher Education,0,LinkedIn Industry Classification System
+IND_0069,69,Education Administration Programs,0,LinkedIn Industry Classification System
+IND_0070,70,Research Services,0,LinkedIn Industry Classification System
+IND_0071,71,Armed Forces,0,LinkedIn Industry Classification System
+IND_0072,72,Legislative Offices,0,LinkedIn Industry Classification System
+IND_0073,73,Administration of Justice,0,LinkedIn Industry Classification System
+IND_0074,74,International Affairs,0,LinkedIn Industry Classification System
+IND_0075,75,Government Administration,0,LinkedIn Industry Classification System
+IND_0076,76,Executive Offices,0,LinkedIn Industry Classification System
+IND_0077,77,Law Enforcement,0,LinkedIn Industry Classification System
+IND_0078,78,Public Safety,0,LinkedIn Industry Classification System
+IND_0079,79,Public Policy Offices,0,LinkedIn Industry Classification System
+IND_0080,80,Advertising Services,0,LinkedIn Industry Classification System
+IND_0081,81,Newspaper Publishing,0,LinkedIn Industry Classification System
+IND_0082,82,Book and Periodical Publishing,0,LinkedIn Industry Classification System
+IND_0083,83,Printing Services,0,LinkedIn Industry Classification System
+IND_0084,84,Information Services,0,LinkedIn Industry Classification System
+IND_0085,85,Libraries,0,LinkedIn Industry Classification System
+IND_0086,86,Environmental Services,0,LinkedIn Industry Classification System
+IND_0087,87,Freight and Package Transportation,0,LinkedIn Industry Classification System
+IND_0088,88,Individual and Family Services,0,LinkedIn Industry Classification System
+IND_0089,89,Religious Institutions,0,LinkedIn Industry Classification System
+IND_0090,90,Civic and Social Organizations,0,LinkedIn Industry Classification System
+IND_0091,91,Consumer Services,0,LinkedIn Industry Classification System
+IND_0092,92,Truck Transportation,0,LinkedIn Industry Classification System
+IND_0093,93,Warehousing and Storage,0,LinkedIn Industry Classification System
+IND_0094,94,Airlines and Aviation,0,LinkedIn Industry Classification System
+IND_0095,95,Maritime Transportation,0,LinkedIn Industry Classification System
+IND_0096,96,IT Services and IT Consulting,0,LinkedIn Industry Classification System
+IND_0097,97,Market Research,0,LinkedIn Industry Classification System
+IND_0098,98,Public Relations and Communications Services,0,LinkedIn Industry Classification System
+IND_0099,99,Design Services,0,LinkedIn Industry Classification System
+IND_0100,100,Non-profit Organizations,0,LinkedIn Industry Classification System
+IND_0101,101,Fundraising,0,LinkedIn Industry Classification System
+IND_0102,102,Strategic Management Services,0,LinkedIn Industry Classification System
+IND_0103,103,Writing and Editing,0,LinkedIn Industry Classification System
+IND_0104,104,Staffing and Recruiting,0,LinkedIn Industry Classification System
+IND_0105,105,Professional Training and Coaching,0,LinkedIn Industry Classification System
+IND_0106,106,Venture Capital and Private Equity Principals,0,LinkedIn Industry Classification System
+IND_0107,107,Political Organizations,0,LinkedIn Industry Classification System
+IND_0108,108,Translation and Localization,0,LinkedIn Industry Classification System
+IND_0109,109,Computer Games,0,LinkedIn Industry Classification System
+IND_0110,110,Events Services,0,LinkedIn Industry Classification System
+IND_0111,111,Retail Art Supplies,0,LinkedIn Industry Classification System
+IND_0112,112,"Appliances, Electrical, and Electronics Manufacturing",0,LinkedIn Industry Classification System
+IND_0113,113,Online Audio and Video Media,0,LinkedIn Industry Classification System
+IND_0114,114,Nanotechnology Research,1,LinkedIn Industry Classification System
+IND_0115,115,Musicians,0,LinkedIn Industry Classification System
+IND_0116,116,"Transportation, Logistics, Supply Chain and Storage",0,LinkedIn Industry Classification System
+IND_0117,117,Plastics Manufacturing,0,LinkedIn Industry Classification System
+IND_0118,118,Computer and Network Security,0,LinkedIn Industry Classification System
+IND_0119,119,Wireless Services,0,LinkedIn Industry Classification System
+IND_0120,120,Alternative Dispute Resolution,0,LinkedIn Industry Classification System
+IND_0121,121,Security and Investigations,0,LinkedIn Industry Classification System
+IND_0122,122,Facilities Services,0,LinkedIn Industry Classification System
+IND_0123,123,Outsourcing and Offshoring Consulting,0,LinkedIn Industry Classification System
+IND_0124,124,Wellness and Fitness Services,0,LinkedIn Industry Classification System
+IND_0125,125,Alternative Medicine,0,LinkedIn Industry Classification System
+IND_0126,126,Media Production,0,LinkedIn Industry Classification System
+IND_0127,127,Animation and Post-production,0,LinkedIn Industry Classification System
+IND_0128,128,Leasing Non-residential Real Estate,0,LinkedIn Industry Classification System
+IND_0129,129,Capital Markets,0,LinkedIn Industry Classification System
+IND_0130,130,Think Tanks,0,LinkedIn Industry Classification System
+IND_0131,131,Philanthropic Fundraising Services,0,LinkedIn Industry Classification System
+IND_0132,132,E-Learning Providers,0,LinkedIn Industry Classification System
+IND_0133,133,Wholesale,0,LinkedIn Industry Classification System
+IND_0134,134,Wholesale Import and Export,0,LinkedIn Industry Classification System
+IND_0135,135,Industrial Machinery Manufacturing,0,LinkedIn Industry Classification System
+IND_0136,136,Photography,0,LinkedIn Industry Classification System
+IND_0137,137,Human Resources Services,0,LinkedIn Industry Classification System
+IND_0138,138,Retail Office Equipment,0,LinkedIn Industry Classification System
+IND_0139,139,Mental Health Care,0,LinkedIn Industry Classification System
+IND_0140,140,Graphic Design,0,LinkedIn Industry Classification System
+IND_0141,141,International Trade and Development,0,LinkedIn Industry Classification System
+IND_0142,142,Beverage Manufacturing,0,LinkedIn Industry Classification System
+IND_0143,143,Retail Luxury Goods and Jewelry,0,LinkedIn Industry Classification System
+IND_0144,144,Renewable Energy Semiconductor Manufacturing,0,LinkedIn Industry Classification System
+IND_0145,145,"Glass, Ceramics and Concrete Manufacturing",0,LinkedIn Industry Classification System
+IND_0146,146,Packaging and Containers Manufacturing,0,LinkedIn Industry Classification System
+IND_0147,147,Automation Machinery Manufacturing,0,LinkedIn Industry Classification System
+IND_0148,148,Government Relations Services,0,LinkedIn Industry Classification System
+IND_0150,150,Horticulture,0,LinkedIn Industry Classification System
+IND_0201,201,"Farming, Ranching, Forestry",0,LinkedIn Industry Classification System
+IND_0298,298,Forestry and Logging,0,LinkedIn Industry Classification System
+IND_0332,332,"Oil, Gas, and Mining",0,LinkedIn Industry Classification System
+IND_0382,382,"Electric Power Transmission, Control, and Distribution",0,LinkedIn Industry Classification System
+IND_0383,383,Electric Power Generation,0,LinkedIn Industry Classification System
+IND_0387,387,Solar Electric Power Generation,0,LinkedIn Industry Classification System
+IND_0388,388,Environmental Quality Programs,0,LinkedIn Industry Classification System
+IND_0397,397,Natural Gas Distribution,0,LinkedIn Industry Classification System
+IND_0398,398,"Water, Waste, Steam, and Air Conditioning Services",0,LinkedIn Industry Classification System
+IND_0406,406,Building Construction,0,LinkedIn Industry Classification System
+IND_0408,408,Residential Building Construction,0,LinkedIn Industry Classification System
+IND_0413,413,Nonresidential Building Construction,0,LinkedIn Industry Classification System
+IND_0419,419,Utility System Construction,0,LinkedIn Industry Classification System
+IND_0431,431,,0,LinkedIn Industry Classification System
+IND_0435,435,Specialty Trade Contractors,0,LinkedIn Industry Classification System
+IND_0453,453,Building Equipment Contractors,0,LinkedIn Industry Classification System
+IND_0481,481,Animal Feed Manufacturing,0,LinkedIn Industry Classification System
+IND_0495,495,Sugar and Confectionery Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0521,521,Meat Products Manufacturing,0,LinkedIn Industry Classification System
+IND_0528,528,Seafood Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0529,529,Baked Goods Manufacturing,0,LinkedIn Industry Classification System
+IND_0564,564,,0,LinkedIn Industry Classification System
+IND_0598,598,Apparel Manufacturing,0,LinkedIn Industry Classification System
+IND_0615,615,Fashion Accessories Manufacturing,0,LinkedIn Industry Classification System
+IND_0616,616,,0,LinkedIn Industry Classification System
+IND_0622,622,Footwear Manufacturing,0,LinkedIn Industry Classification System
+IND_0679,679,Oil and Coal Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0690,690,Chemical Raw Materials Manufacturing,0,LinkedIn Industry Classification System
+IND_0709,709,Agricultural Chemical Manufacturing,0,LinkedIn Industry Classification System
+IND_0722,722,"Paint, Coating, and Adhesive Manufacturing",0,LinkedIn Industry Classification System
+IND_0727,727,Soap and Cleaning Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0743,743,Plastics and Rubber Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0763,763,Rubber Products Manufacturing,0,LinkedIn Industry Classification System
+IND_0779,779,Glass Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0784,784,Wood Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0799,799,Abrasives and Nonmetallic Minerals Manufacturing,0,LinkedIn Industry Classification System
+IND_0807,807,Primary Metal Manufacturing,0,LinkedIn Industry Classification System
+IND_0840,840,Fabricated Metal Products,0,LinkedIn Industry Classification System
+IND_0852,852,Architectural and Structural Metal Manufacturing,0,LinkedIn Industry Classification System
+IND_0861,861,"Boilers, Tanks, and Shipping Container Manufacturing",0,LinkedIn Industry Classification System
+IND_0871,871,Construction Hardware Manufacturing,1,LinkedIn Industry Classification System
+IND_0873,873,Spring and Wire Product Manufacturing,0,LinkedIn Industry Classification System
+IND_0876,876,Turned Products and Fastener Manufacturing,0,LinkedIn Industry Classification System
+IND_0883,883,Metal Treatments,0,LinkedIn Industry Classification System
+IND_0887,887,"Metal Valve, Ball, and Roller Manufacturing",0,LinkedIn Industry Classification System
+IND_0901,901,"Agriculture, Construction, Mining Machinery Manufacturing",0,LinkedIn Industry Classification System
+IND_0918,918,Commercial and Service Industry Machinery Manufacturing,0,LinkedIn Industry Classification System
+IND_0923,923,HVAC and Refrigeration Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_0928,928,Metalworking Machinery Manufacturing,0,LinkedIn Industry Classification System
+IND_0935,935,Engines and Power Transmission Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_0964,964,Communications Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_0973,973,Audio and Video Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_0983,983,Measuring and Control Instrument Manufacturing,0,LinkedIn Industry Classification System
+IND_0994,994,Magnetic and Optical Media Manufacturing,0,LinkedIn Industry Classification System
+IND_0998,998,Electric Lighting Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_1029,1029,Transportation Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_1042,1042,Motor Vehicle Parts Manufacturing,0,LinkedIn Industry Classification System
+IND_1080,1080,Household and Institutional Furniture Manufacturing,0,LinkedIn Industry Classification System
+IND_1090,1090,Office Furniture and Fixtures Manufacturing,0,LinkedIn Industry Classification System
+IND_1095,1095,Mattress and Blinds Manufacturing,0,LinkedIn Industry Classification System
+IND_1128,1128,Wholesale Motor Vehicles and Parts,0,LinkedIn Industry Classification System
+IND_1137,1137,Wholesale Furniture and Home Furnishings,0,LinkedIn Industry Classification System
+IND_1153,1153,Wholesale Photography Equipment and Supplies,0,LinkedIn Industry Classification System
+IND_1157,1157,Wholesale Computer Equipment,0,LinkedIn Industry Classification System
+IND_1166,1166,Wholesale Metals and Minerals,0,LinkedIn Industry Classification System
+IND_1171,1171,"Wholesale Appliances, Electrical, and Electronics",0,LinkedIn Industry Classification System
+IND_1178,1178,"Wholesale Hardware, Plumbing, Heating Equipment",1,LinkedIn Industry Classification System
+IND_1187,1187,Wholesale Machinery,0,LinkedIn Industry Classification System
+IND_1206,1206,Wholesale Recyclable Materials,0,LinkedIn Industry Classification System
+IND_1208,1208,Wholesale Luxury Goods and Jewelry,0,LinkedIn Industry Classification System
+IND_1212,1212,Wholesale Paper Products,0,LinkedIn Industry Classification System
+IND_1221,1221,Wholesale Drugs and Sundries,0,LinkedIn Industry Classification System
+IND_1222,1222,Wholesale Apparel and Sewing Supplies,0,LinkedIn Industry Classification System
+IND_1230,1230,Wholesale Footwear,0,LinkedIn Industry Classification System
+IND_1231,1231,Wholesale Food and Beverage,0,LinkedIn Industry Classification System
+IND_1250,1250,Wholesale Raw Farm Products,0,LinkedIn Industry Classification System
+IND_1257,1257,Wholesale Chemical and Allied Products,0,LinkedIn Industry Classification System
+IND_1262,1262,Wholesale Petroleum and Petroleum Products,0,LinkedIn Industry Classification System
+IND_1267,1267,Wholesale Alcoholic Beverages,0,LinkedIn Industry Classification System
+IND_1285,1285,Internet Marketplace Platforms,1,LinkedIn Industry Classification System
+IND_1292,1292,Retail Motor Vehicles,0,LinkedIn Industry Classification System
+IND_1309,1309,Retail Furniture and Home Furnishings,0,LinkedIn Industry Classification System
+IND_1319,1319,"Retail Appliances, Electrical, and Electronic Equipment",0,LinkedIn Industry Classification System
+IND_1324,1324,Retail Building Materials and Garden Equipment,0,LinkedIn Industry Classification System
+IND_1339,1339,Food and Beverage Retail,0,LinkedIn Industry Classification System
+IND_1359,1359,Retail Health and Personal Care Products,0,LinkedIn Industry Classification System
+IND_1407,1407,Retail Musical Instruments,0,LinkedIn Industry Classification System
+IND_1409,1409,Retail Books and Printed News,0,LinkedIn Industry Classification System
+IND_1423,1423,Retail Florists,0,LinkedIn Industry Classification System
+IND_1424,1424,Retail Office Supplies and Gifts,0,LinkedIn Industry Classification System
+IND_1431,1431,Retail Recyclable Materials & Used Merchandise,0,LinkedIn Industry Classification System
+IND_1445,1445,Online and Mail Order Retail,0,LinkedIn Industry Classification System
+IND_1481,1481,Rail Transportation,0,LinkedIn Industry Classification System
+IND_1495,1495,Ground Passenger Transportation,0,LinkedIn Industry Classification System
+IND_1497,1497,Urban Transit Services,0,LinkedIn Industry Classification System
+IND_1512,1512,School and Employee Bus Services,0,LinkedIn Industry Classification System
+IND_1517,1517,,0,LinkedIn Industry Classification System
+IND_1520,1520,Pipeline Transportation,0,LinkedIn Industry Classification System
+IND_1594,1594,"Technology, Information and Media",1,LinkedIn Industry Classification System
+IND_1600,1600,,0,LinkedIn Industry Classification System
+IND_1602,1602,,0,LinkedIn Industry Classification System
+IND_1633,1633,,0,LinkedIn Industry Classification System
+IND_1649,1649,,0,LinkedIn Industry Classification System
+IND_1673,1673,Credit Intermediation,0,LinkedIn Industry Classification System
+IND_1696,1696,Loan Brokers,0,LinkedIn Industry Classification System
+IND_1713,1713,Securities and Commodity Exchanges,0,LinkedIn Industry Classification System
+IND_1720,1720,Investment Advice,0,LinkedIn Industry Classification System
+IND_1725,1725,Insurance Carriers,0,LinkedIn Industry Classification System
+IND_1737,1737,Insurance Agencies and Brokerages,0,LinkedIn Industry Classification System
+IND_1738,1738,"Claims Adjusting, Actuarial Services",0,LinkedIn Industry Classification System
+IND_1742,1742,Funds and Trusts,0,LinkedIn Industry Classification System
+IND_1743,1743,Insurance and Employee Benefit Funds,0,LinkedIn Industry Classification System
+IND_1745,1745,Pension Funds,0,LinkedIn Industry Classification System
+IND_1750,1750,Trusts and Estates,0,LinkedIn Industry Classification System
+IND_1757,1757,Real Estate and Equipment Rental Services,0,LinkedIn Industry Classification System
+IND_1759,1759,,0,LinkedIn Industry Classification System
+IND_1770,1770,Real Estate Agents and Brokers,0,LinkedIn Industry Classification System
+IND_1779,1779,Equipment Rental Services,0,LinkedIn Industry Classification System
+IND_1786,1786,Consumer Goods Rental,0,LinkedIn Industry Classification System
+IND_1798,1798,Commercial and Industrial Equipment Rental,0,LinkedIn Industry Classification System
+IND_1810,1810,Professional Services,0,LinkedIn Industry Classification System
+IND_1855,1855,IT System Design Services,0,LinkedIn Industry Classification System
+IND_1862,1862,Marketing Services,0,LinkedIn Industry Classification System
+IND_1905,1905,Holding Companies,0,LinkedIn Industry Classification System
+IND_1909,1909,,0,LinkedIn Industry Classification System
+IND_1912,1912,Administrative and Support Services,0,LinkedIn Industry Classification System
+IND_1916,1916,Office Administration,0,LinkedIn Industry Classification System
+IND_1923,1923,Executive Search Services,0,LinkedIn Industry Classification System
+IND_1931,1931,Telephone Call Centers,0,LinkedIn Industry Classification System
+IND_1938,1938,Collection Agencies,0,LinkedIn Industry Classification System
+IND_1956,1956,,0,LinkedIn Industry Classification System
+IND_1958,1958,Security Systems Services,0,LinkedIn Industry Classification System
+IND_1965,1965,Janitorial Services,0,LinkedIn Industry Classification System
+IND_1981,1981,,0,LinkedIn Industry Classification System
+IND_1986,1986,Waste Treatment and Disposal,0,LinkedIn Industry Classification System
+IND_1999,1999,Education,0,LinkedIn Industry Classification System
+IND_2018,2018,Technical and Vocational Training,0,LinkedIn Industry Classification System
+IND_2020,2020,,0,LinkedIn Industry Classification System
+IND_2027,2027,Sports and Recreation Instruction,0,LinkedIn Industry Classification System
+IND_2045,2045,Dentists,0,LinkedIn Industry Classification System
+IND_2050,2050,,0,LinkedIn Industry Classification System
+IND_2054,2054,"Physical, Occupational and Speech Therapists",0,LinkedIn Industry Classification System
+IND_2069,2069,Medical and Diagnostic Laboratories,0,LinkedIn Industry Classification System
+IND_2074,2074,Home Health Care Services,0,LinkedIn Industry Classification System
+IND_2081,2081,Hospitals,0,LinkedIn Industry Classification System
+IND_2091,2091,Nursing Homes and Residential Care Facilities,0,LinkedIn Industry Classification System
+IND_2112,2112,,0,LinkedIn Industry Classification System
+IND_2115,2115,Community Services,0,LinkedIn Industry Classification System
+IND_2122,2122,,0,LinkedIn Industry Classification System
+IND_2125,2125,,0,LinkedIn Industry Classification System
+IND_2128,2128,,0,LinkedIn Industry Classification System
+IND_2130,2130,Performing Arts and Spectator Sports,0,LinkedIn Industry Classification System
+IND_2133,2133,Theater Companies,0,LinkedIn Industry Classification System
+IND_2142,2142,Sports Teams and Clubs,0,LinkedIn Industry Classification System
+IND_2159,2159,Museums,0,LinkedIn Industry Classification System
+IND_2163,2163,Zoos and Botanical Gardens,0,LinkedIn Industry Classification System
+IND_2167,2167,Amusement Parks and Arcades,0,LinkedIn Industry Classification System
+IND_2179,2179,Golf Courses and Country Clubs,0,LinkedIn Industry Classification System
+IND_2190,2190,Accommodation and Food Services,0,LinkedIn Industry Classification System
+IND_2194,2194,Hotels and Motels,0,LinkedIn Industry Classification System
+IND_2197,2197,"Bed-and-Breakfasts, Hostels, Homestays",0,LinkedIn Industry Classification System
+IND_2212,2212,Caterers,0,LinkedIn Industry Classification System
+IND_2225,2225,Repair and Maintenance,0,LinkedIn Industry Classification System
+IND_2226,2226,Vehicle Repair and Maintenance,0,LinkedIn Industry Classification System
+IND_2247,2247,,0,LinkedIn Industry Classification System
+IND_2253,2253,,0,LinkedIn Industry Classification System
+IND_2258,2258,Personal and Laundry Services,0,LinkedIn Industry Classification System
+IND_2259,2259,Personal Care Services,0,LinkedIn Industry Classification System
+IND_2272,2272,,0,LinkedIn Industry Classification System
+IND_2282,2282,,0,LinkedIn Industry Classification System
+IND_2318,2318,Household Services,0,LinkedIn Industry Classification System
+IND_2353,2353,Health and Human Services,0,LinkedIn Industry Classification System
+IND_2358,2358,Public Health,0,LinkedIn Industry Classification System
+IND_2360,2360,Public Assistance Programs,0,LinkedIn Industry Classification System
+IND_2366,2366,"Air, Water, and Waste Program Management",0,LinkedIn Industry Classification System
+IND_2368,2368,Conservation Programs,0,LinkedIn Industry Classification System
+IND_2369,2369,Housing and Community Development,0,LinkedIn Industry Classification System
+IND_2374,2374,Community Development and Urban Planning,0,LinkedIn Industry Classification System
+IND_2375,2375,Economic Programs,0,LinkedIn Industry Classification System
+IND_2391,2391,Military and International Affairs,0,LinkedIn Industry Classification System
+IND_2401,2401,Operations Consulting,0,LinkedIn Industry Classification System
+IND_2458,2458,Data Infrastructure and Analytics,0,LinkedIn Industry Classification System
+IND_2468,2468,Electrical Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_2489,2489,Wind Electric Power Generation,0,LinkedIn Industry Classification System
+IND_2500,2500,Wineries,0,LinkedIn Industry Classification System
+IND_2934,2934,Landscaping Services,0,LinkedIn Industry Classification System
+IND_3065,3065,Courts of Law,0,LinkedIn Industry Classification System
+IND_3068,3068,Correctional Institutions,0,LinkedIn Industry Classification System
+IND_3070,3070,Fire Protection,0,LinkedIn Industry Classification System
+IND_3081,3081,Housing Programs,0,LinkedIn Industry Classification System
+IND_3085,3085,Transportation Programs,0,LinkedIn Industry Classification System
+IND_3086,3086,Utilities Administration,0,LinkedIn Industry Classification System
+IND_3089,3089,Space Research and Technology,1,LinkedIn Industry Classification System
+IND_3099,3099,,0,LinkedIn Industry Classification System
+IND_3100,3100,,0,LinkedIn Industry Classification System
+IND_3101,3101,Desktop Computing Software Products,1,LinkedIn Industry Classification System
+IND_3102,3102,IT System Custom Software Development,1,LinkedIn Industry Classification System
+IND_3103,3103,IT System Operations and Maintenance,0,LinkedIn Industry Classification System
+IND_3104,3104,IT System Installation and Disposal,0,LinkedIn Industry Classification System
+IND_3105,3105,IT System Training and Support,0,LinkedIn Industry Classification System
+IND_3106,3106,IT System Data Services,0,LinkedIn Industry Classification System
+IND_3107,3107,IT System Testing and Evaluation,0,LinkedIn Industry Classification System
+IND_3124,3124,Internet News,1,LinkedIn Industry Classification System
+IND_3126,3126,Interior Design,0,LinkedIn Industry Classification System
+IND_3127,3127,Social Networking Platforms,0,LinkedIn Industry Classification System
+IND_3128,3128,Business Intelligence Platforms,0,LinkedIn Industry Classification System
+IND_3129,3129,Business Content,0,LinkedIn Industry Classification System
+IND_3130,3130,Data Security Software Products,1,LinkedIn Industry Classification System
+IND_3131,3131,,0,LinkedIn Industry Classification System
+IND_3132,3132,Internet Publishing,1,LinkedIn Industry Classification System
+IND_3133,3133,,0,LinkedIn Industry Classification System
+IND_3134,3134,Blockchain Services,0,LinkedIn Industry Classification System
+IND_3186,3186,,0,LinkedIn Industry Classification System
+IND_3187,3187,Defense & Space,1,LinkedIn Industry Classification System
+IND_3188,3188,Veterinary,0,LinkedIn Industry Classification System
+IND_3189,3189,Cosmetics,0,LinkedIn Industry Classification System
+IND_3190,3190,Apparel & Fashion,0,LinkedIn Industry Classification System
+IND_3191,3191,Consumer Electronics,0,LinkedIn Industry Classification System
+IND_3192,3192,Consumer Goods,0,LinkedIn Industry Classification System
+IND_3193,3193,Furniture,0,LinkedIn Industry Classification System
+IND_3194,3194,"Leisure, Travel & Tourism",0,LinkedIn Industry Classification System
+IND_3195,3195,Food & Beverages,0,LinkedIn Industry Classification System
+IND_3196,3196,Fine Art,0,LinkedIn Industry Classification System
+IND_3197,3197,Building Materials,0,LinkedIn Industry Classification System
+IND_3198,3198,Automotive,0,LinkedIn Industry Classification System
+IND_3199,3199,Dairy,0,LinkedIn Industry Classification System
+IND_3200,3200,Education Management,0,LinkedIn Industry Classification System
+IND_3202,3202,Non-profit Organization Management,0,LinkedIn Industry Classification System
+IND_3203,3203,Program Development,0,LinkedIn Industry Classification System
+IND_3205,3205,,0,LinkedIn Industry Classification System
+IND_3206,3206,,0,LinkedIn Industry Classification System
+IND_3207,3207,"Health, Wellness & Fitness",0,LinkedIn Industry Classification System
+IND_3208,3208,E-learning,0,LinkedIn Industry Classification System
+IND_3209,3209,,0,LinkedIn Industry Classification System
+IND_3210,3210,Human Resources,0,LinkedIn Industry Classification System
+IND_3211,3211,,0,LinkedIn Industry Classification System
+IND_3212,3212,Luxury Goods & Jewelry,0,LinkedIn Industry Classification System
+IND_3213,3213,Renewables & Environment,0,LinkedIn Industry Classification System
+IND_3214,3214,Online Media,0,LinkedIn Industry Classification System
+IND_3216,3216,Industrial Automation,0,LinkedIn Industry Classification System
+IND_3217,3217,Medical Device,0,LinkedIn Industry Classification System
+IND_3218,3218,Semiconductors,0,LinkedIn Industry Classification System
+IND_3219,3219,Commercial Real Estate,0,LinkedIn Industry Classification System
+IND_3220,3220,Wine & Spirits,0,LinkedIn Industry Classification System
+IND_3221,3221,Mechanical Or Industrial Engineering,0,LinkedIn Industry Classification System
+IND_3222,3222,Transportation/Trucking/Railroad,0,LinkedIn Industry Classification System
+IND_3223,3223,Packaging & Containers,0,LinkedIn Industry Classification System
+IND_3224,3224,Food Production,0,LinkedIn Industry Classification System
+IND_3225,3225,,0,LinkedIn Industry Classification System
+IND_3226,3226,Aviation & Aerospace,0,LinkedIn Industry Classification System
+IND_3227,3227,Design,0,LinkedIn Industry Classification System
+IND_3229,3229,Warehousing,0,LinkedIn Industry Classification System
+IND_3230,3230,,0,LinkedIn Industry Classification System
+IND_3231,3231,Information Technology & Services,1,LinkedIn Industry Classification System
+IND_3232,3232,,0,LinkedIn Industry Classification System
+IND_3233,3233,Research,0,LinkedIn Industry Classification System
+IND_3234,3234,Computer Networking,0,LinkedIn Industry Classification System
+IND_3235,3235,Computer Hardware,1,LinkedIn Industry Classification System
+IND_3236,3236,Maritime,0,LinkedIn Industry Classification System
+IND_3237,3237,Entertainment,0,LinkedIn Industry Classification System
+IND_3238,3238,Biotechnology,1,LinkedIn Industry Classification System
+IND_3239,3239,Paper & Forest Products,0,LinkedIn Industry Classification System
+IND_3240,3240,Renewable Energy Power Generation,0,LinkedIn Industry Classification System
+IND_3241,3241,Renewable Energy Equipment Manufacturing,0,LinkedIn Industry Classification System
+IND_3242,3242,Engineering Services,0,LinkedIn Industry Classification System
+IND_3243,3243,Services for Renewable Energy,0,LinkedIn Industry Classification System
+IND_3244,3244,Digital Accessibility Services,0,LinkedIn Industry Classification System
+IND_3246,3246,Accessible Architecture and Design,0,LinkedIn Industry Classification System
+IND_3247,3247,Robot Manufacturing,0,LinkedIn Industry Classification System
+IND_3248,3248,Robotics Engineering,0,LinkedIn Industry Classification System
+IND_3249,3249,Surveying and Mapping Services,0,LinkedIn Industry Classification System
+IND_3250,3250,Retail Pharmacies,0,LinkedIn Industry Classification System
+IND_3251,3251,Climate Technology Product Manufacturing,1,LinkedIn Industry Classification System
+IND_3252,3252,Climate Data and Analytics,0,LinkedIn Industry Classification System
+IND_3253,3253,Alternative Fuel Vehicle Manufacturing,0,LinkedIn Industry Classification System

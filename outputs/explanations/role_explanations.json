@@ -1,0 +1,2615 @@
+{
+  "Generative AI Engineer": {
+    "role": "Generative AI Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.541198,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.484138,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.276148,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.260152,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_frontier_skill_ratio",
+        "shap_value": 0.145552,
+        "description": "Fraction of skills that are frontier/emerging",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.50652,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.713111,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.498026,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.469336,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.314665,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "AI Agent / Agentic AI Engineer": {
+    "role": "AI Agent / Agentic AI Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.486917,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.389736,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.275986,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.258336,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.133179,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.431049,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.708878,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.4428,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.440917,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.312152,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "AI Security Engineer": {
+    "role": "AI Security Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.290861,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.264172,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.253128,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.170285,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.133543,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.290738,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.566927,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.517833,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.416067,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.273754,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "MLOps Engineer": {
+    "role": "MLOps Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.492614,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.487132,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.275823,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.258795,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.134016,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.485676,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.698407,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.471591,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.464969,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.31242,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Machine Learning Engineer": {
+    "role": "Machine Learning Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_skill_count",
+        "shap_value": 1.548481,
+        "description": "Li Skill Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.451105,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.27984,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.24737,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "nk_share",
+        "shap_value": 0.213247,
+        "description": "Nk Share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -5.536858,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.45743,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.335101,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.245331,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.192643,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Deep Learning Engineer": {
+    "role": "Deep Learning Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.592503,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.477196,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.278126,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.257353,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.165426,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.48254,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.979027,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.418268,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.394024,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.375244,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "NLP Engineer": {
+    "role": "NLP Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.487412,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.350147,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.275449,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.259253,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.13393,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.381222,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.705021,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.498269,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.462408,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.291271,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Computer Vision Engineer": {
+    "role": "Computer Vision Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.56814,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.485433,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.27569,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.258553,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.132547,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.502466,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.704035,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.508595,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.479677,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.315417,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "AI Research Scientist": {
+    "role": "AI Research Scientist",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.483932,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.375675,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.275274,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.256384,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.12991,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.365904,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.730949,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.551094,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.485833,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.287978,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Applied ML Scientist": {
+    "role": "Applied ML Scientist",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.484262,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.473963,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.274948,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.256842,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.130875,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.422397,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.726035,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.572817,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.515438,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.298485,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "AI Engineer": {
+    "role": "AI Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.486638,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.265632,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.25773,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.126505,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "accel",
+        "shap_value": 0.064948,
+        "description": "Trend acceleration (is momentum increasing?)",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.462063,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.471984,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.462434,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.306063,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.259849,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Data Engineer": {
+    "role": "Data Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_skill_count",
+        "shap_value": 0.877475,
+        "description": "Li Skill Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.647852,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.277951,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.209289,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.161442,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -7.032627,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.559946,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.335748,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.291567,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.165472,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Data Scientist": {
+    "role": "Data Scientist",
+    "top_positive_drivers": [
+      {
+        "feature": "li_skill_count",
+        "shap_value": 0.895003,
+        "description": "Li Skill Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.313242,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.269252,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.258038,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.161442,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.63696,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.484912,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.45457,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.238191,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.219777,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Data Architect": {
+    "role": "Data Architect",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.73304,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.490159,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.27708,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.253251,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.171202,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.35175,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.934345,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.581162,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.484817,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.352143,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Analytics / Data Platform Engineer": {
+    "role": "Analytics / Data Platform Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.318933,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.263847,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.253128,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.12358,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "accel",
+        "shap_value": 0.062709,
+        "description": "Trend acceleration (is momentum increasing?)",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.313228,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.585846,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.519057,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.269183,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.201936,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Data Analyst": {
+    "role": "Data Analyst",
+    "top_positive_drivers": [
+      {
+        "feature": "li_skill_count",
+        "shap_value": 0.840027,
+        "description": "Li Skill Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.272536,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.242453,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.131272,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.122372,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.688079,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.564364,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.37654,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.232781,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.151246,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "ETL Developer": {
+    "role": "ETL Developer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.777907,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.484877,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.278285,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.25525,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.126822,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.53937,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.709214,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.603327,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.405614,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.377831,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Database Administrator": {
+    "role": "Database Administrator",
+    "top_positive_drivers": [
+      {
+        "feature": "onet_skill_count",
+        "shap_value": 29.255001,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "onet_match_similarity",
+        "shap_value": 3.249884,
+        "description": "Onet Match Similarity",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": 2.943293,
+        "description": "Job posting share 2 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "onet_emerging_relevance",
+        "shap_value": 1.110845,
+        "description": "Onet Emerging Relevance",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "std3m",
+        "shap_value": 1.091701,
+        "description": "3-month posting volatility",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -8.511865,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": -1.783852,
+        "description": "Li Junior Share",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.624146,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.364807,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": -1.046266,
+        "description": "Max6M",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Platform Engineer": {
+    "role": "Platform Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.488064,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.453331,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.280748,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.203964,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.171063,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.425673,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.887884,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.433602,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.374229,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.281343,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Site Reliability Engineer (SRE)": {
+    "role": "Site Reliability Engineer (SRE)",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.4929,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.489849,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.27981,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.258753,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.131022,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.426073,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.683856,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.441216,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.370284,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.272691,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "DevOps / DevSecOps Engineer": {
+    "role": "DevOps / DevSecOps Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.668068,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.493066,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.286142,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.251607,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.161442,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.846817,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.675111,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.450349,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.316587,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.290929,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Cloud Security Engineer": {
+    "role": "Cloud Security Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.549155,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.266622,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.257882,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.11835,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "skill_novelty_index",
+        "shap_value": 0.101122,
+        "description": "Skill Novelty Index",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.503427,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.43727,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.425339,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.295705,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.285347,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Cloud Engineer / Architect": {
+    "role": "Cloud Engineer / Architect",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.50821,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.485256,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.277172,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.257878,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.171477,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.491499,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.884787,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.433538,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.406975,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.355555,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Cloud Infrastructure Engineer": {
+    "role": "Cloud Infrastructure Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.739366,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.487194,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.278056,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.257878,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.132733,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.501643,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.710901,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.448991,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.409567,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.369643,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Cybersecurity Engineer": {
+    "role": "Cybersecurity Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_skill_count",
+        "shap_value": 0.8827,
+        "description": "Li Skill Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.519467,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.269891,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.242641,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.161442,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.770394,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.437628,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.372127,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.250481,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.203272,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Security Analyst / Pen Tester": {
+    "role": "Security Analyst / Pen Tester",
+    "top_positive_drivers": [
+      {
+        "feature": "onet_emerging_relevance",
+        "shap_value": 0.480145,
+        "description": "Onet Emerging Relevance",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.476488,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.272179,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.256957,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.131272,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -7.15241,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.443259,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.362253,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.259584,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.192006,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Full Stack Engineer": {
+    "role": "Full Stack Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_skill_count",
+        "shap_value": 0.837584,
+        "description": "Li Skill Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.669045,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.27795,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.243504,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_unique_industries",
+        "shap_value": 0.131272,
+        "description": "Li Unique Industries",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -7.026748,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.571862,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.339137,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.290342,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.188829,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Backend Engineer": {
+    "role": "Backend Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.38128,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.26532,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.257948,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.122259,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "accel",
+        "shap_value": 0.064592,
+        "description": "Trend acceleration (is momentum increasing?)",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.187404,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.542652,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.511419,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.263006,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.224344,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Frontend Engineer": {
+    "role": "Frontend Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.484643,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.27476,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.256729,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.136646,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.120716,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.0578,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.707395,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.554505,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.509002,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.250953,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Software Engineer": {
+    "role": "Software Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": 146.425095,
+        "description": "LinkedIn market share for this role",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": 29.422254,
+        "description": "Li Posting Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": 15.718633,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": 6.251902,
+        "description": "Job posting share 2 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "era_novelty_score",
+        "shap_value": 3.700395,
+        "description": "Era Novelty Score",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": -28.872266,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "slope6m",
+        "shap_value": -9.578636,
+        "description": "6-month linear trend slope",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -9.167908,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": -4.251764,
+        "description": "Li Junior Share",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": -4.195277,
+        "description": "Job posting share 6 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Python Developer": {
+    "role": "Python Developer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.634058,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.267536,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.256596,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.12454,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "accel",
+        "shap_value": 0.063895,
+        "description": "Trend acceleration (is momentum increasing?)",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.438969,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.4265,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.381391,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.326581,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.263781,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Java Developer": {
+    "role": "Java Developer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.919473,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.269354,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.254949,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.121371,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "accel",
+        "shap_value": 0.064,
+        "description": "Trend acceleration (is momentum increasing?)",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.727028,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.479289,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.408002,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.341685,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.279428,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Mobile App Developer": {
+    "role": "Mobile App Developer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.749219,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.267956,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.255929,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.111752,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "skill_novelty_index",
+        "shap_value": 0.101055,
+        "description": "Skill Novelty Index",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.313919,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.568831,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.484261,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.315124,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.260577,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Embedded Systems / Firmware Engineer": {
+    "role": "Embedded Systems / Firmware Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.696841,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.266764,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.254115,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.121446,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "skill_novelty_index",
+        "shap_value": 0.101444,
+        "description": "Skill Novelty Index",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.470146,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.595245,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.490012,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.281033,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.260917,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Quantum Computing Engineer": {
+    "role": "Quantum Computing Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.455874,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.279805,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.257269,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.154402,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.131687,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.187674,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.987982,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.449269,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.234041,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.224215,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Edge AI Engineer": {
+    "role": "Edge AI Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.455874,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.279805,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.257269,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.154402,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": 0.131687,
+        "description": "6-month rolling average share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.187674,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.987982,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.449269,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.234041,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.224215,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Robotics Engineer": {
+    "role": "Robotics Engineer",
+    "top_positive_drivers": [
+      {
+        "feature": "li_junior_share",
+        "shap_value": 0.48867,
+        "description": "Li Junior Share",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": 0.349159,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag6",
+        "shap_value": 0.275444,
+        "description": "Job posting share 6 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": 0.255396,
+        "description": "Max6M",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_mid_share",
+        "shap_value": 0.171196,
+        "description": "Li Mid Share",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.390236,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": -1.896896,
+        "description": "Job posting share 2 months ago",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": -1.545937,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": -1.512422,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": -1.291312,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Technical Product Manager": {
+    "role": "Technical Product Manager",
+    "top_positive_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": 159.048585,
+        "description": "LinkedIn market share for this role",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "onet_matched",
+        "shap_value": 34.464451,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": 34.118766,
+        "description": "Li Posting Count",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "az_months_active",
+        "shap_value": 32.814972,
+        "description": "Total months role appeared in Adzuna",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": 16.493258,
+        "description": "Job posting share 2 months ago",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "sk_vel",
+        "shap_value": -24.953675,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": -1.530011,
+        "description": "6-month rolling average share",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "nk_share",
+        "shap_value": -0.929895,
+        "description": "Nk Share",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "max6m",
+        "shap_value": -0.677547,
+        "description": "Max6M",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "roll3m",
+        "shap_value": -0.610266,
+        "description": "3-month rolling average share",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  },
+  "Scrum Master": {
+    "role": "Scrum Master",
+    "top_positive_drivers": [
+      {
+        "feature": "onet_matched",
+        "shap_value": 72.494281,
+        "description": "Role matched to an O*NET occupation",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag2",
+        "shap_value": 8.672331,
+        "description": "Job posting share 2 months ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "onet_skill_count",
+        "shap_value": 7.004468,
+        "description": "Number of skills in O*NET for this occupation",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "lag1",
+        "shap_value": 6.413988,
+        "description": "Job posting share 1 month ago",
+        "direction": "↑ Increases predicted demand"
+      },
+      {
+        "feature": "std3m",
+        "shap_value": 1.575669,
+        "description": "3-month posting volatility",
+        "direction": "↑ Increases predicted demand"
+      }
+    ],
+    "top_negative_drivers": [
+      {
+        "feature": "li_share",
+        "shap_value": -6.662226,
+        "description": "LinkedIn market share for this role",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_junior_share",
+        "shap_value": -3.236996,
+        "description": "Li Junior Share",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "sk_vel",
+        "shap_value": -2.94541,
+        "description": "Skill velocity — how fast new skills are being added",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "li_posting_count",
+        "shap_value": -1.365422,
+        "description": "Li Posting Count",
+        "direction": "↓ Decreases predicted demand"
+      },
+      {
+        "feature": "roll6m",
+        "shap_value": -1.330136,
+        "description": "6-month rolling average share",
+        "direction": "↓ Decreases predicted demand"
+      }
+    ]
+  }
+}

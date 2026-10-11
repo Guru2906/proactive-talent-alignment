@@ -1,0 +1,11 @@
+Dataset,Role_Demand_Model,Skill_Emergence_Model,Role_Skill_Model,Employment_Validation,Future_Projection_Model,Feature_Role,Target_Candidate,Validation_Use,Prior_Use,Recommended,Reasoning
+adzuna_cleaned.csv,YES,OPTIONAL,NO,YES,NO,PRIMARY_FEATURE,YES,PRIMARY_TARGET,NO,YES,Continuous temporal demand backbone
+linkedin_cleaned.csv,YES,YES,YES,NO,NO,STRUCTURAL_PRIOR,NO,NO,YES,YES,"Company breadth, industry diversification, seniority entropy"
+naukri_cleaned.csv,YES,NO,NO,NO,NO,ERA_NOVELTY_FEATURE,NO,NO,YES,YES,Historical pre-AI baseline to quantify role novelty
+emerging_skill_clusters_8yr.csv,YES,YES,YES,NO,NO,SKILL_ADOPTION_FEATURE,NO,VALIDATION,YES,YES,Developer survey skill adoption and AI tool exposure
+skill_year_percentage.csv,YES,YES,YES,NO,NO,SKILL_VELOCITY_FEATURE,NO,NO,NO,YES,Longitudinal multi-year skill growth velocity
+current_roles_master_cleaned_v2.csv,OPTIONAL,YES,YES,NO,NO,OCCUPATIONAL_FEATURE,NO,NO,YES,YES,O*NET technological skill density and language counts
+future_jobs_expanded.csv,NO,YES,YES,NO,NO,VOCABULARY_FEATURE,NO,NO,YES,YES,Candidate role discovery and skill breadth
+national_M2018_M2025.xlsx,NO,NO,NO,YES,NO,VALIDATION_ONLY,NO,MACRO_VALIDATION,NO,YES,Independent BLS government employment benchmark (2018-2025)
+1.2 Future employment growth.xlsx,NO,NO,NO,YES,YES,VALIDATION_ONLY,NO,PROJECTION_VALIDATION,NO,YES,BLS 10-year employment growth validation (2024-2034)
+1.10 future job openings.xlsx,NO,NO,NO,YES,YES,VALIDATION_ONLY,NO,OPENINGS_VALIDATION,NO,YES,BLS projected replacement and opening demand

@@ -1,0 +1,227 @@
+quarter,tracked_cluster_id,local_cluster_id,posting_count,unique_companies,top_titles,mean_prob,persistence_quarters,first_seen,last_seen
+2024-Q2,0,0,14,5,dot 16+ bus driver cdl required detroit metro airport full time|shuttle bus driver detroit metro airport full time|lot driver hobby airport|detroit metro airport lot attendant|shuttle bus driver detroit metro airport part time,0.9645573728370166,1,2024-Q2,2024-Q2
+2024-Q2,1,1,15,2,auto detailer|automotive detailer,0.9333333333333333,1,2024-Q2,2024-Q2
+2024-Q2,2,2,9,2,automotive detailer car washer canoga park|automotive detailer car washer downey|automotive detailer car washer spartanburg|automotive detailer car washer cudahy|automotive detailer car washer jacksonville,0.9973234890102967,1,2024-Q2,2024-Q2
+2024-Q2,3,3,15,11,painter|automotive painter|auto painter helper|3rd shift painter|skilled painter for fabrication shop,0.9421216593286522,1,2024-Q2,2024-Q2
+2024-Q2,4,4,13,9,nurse aide /clin secretary med surg cary hospital|patient liaison|hospice liaison|nursing liaison osh 23332|clinical liaison,0.9988184457720188,1,2024-Q2,2024-Q2
+2024-Q2,5,5,9,1,clinical information systems analyst is inpatient apps full time hour days exempt non union|network engineer is infrastructure full time hour days non exempt non union|imaging application analyst is imaging apps full time hour days non exempt non union|servicenow business analyst is administration full time hour days exempt non union|unified communications engineer is infrastructure full time hour days non exempt non union,0.9992498968129784,1,2024-Q2,2024-Q2
+2024-Q2,6,6,23,11,board certified behavior analyst bcba|board certified behavior analyst|board certified behavior analyst full time|board certified behavior analyst bcba jacksonville fl|bcba board certified behavior analyst,0.391304347826087,1,2024-Q2,2024-Q2
+2024-Q2,7,7,13,1,prsv24 content writer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,8,8,15,1,gc retail sales store 465|gc retail store store 834|gc retail store store 833|gc retail instructor store 227|gc retail sales store 133,0.9278825743358353,1,2024-Q2,2024-Q2
+2024-Q2,9,9,11,2,coach/ops mgr trainee|/mgr in training,0.9090909090909091,1,2024-Q2,2024-Q2
+2024-Q2,10,10,17,10,dietary aide|food service aide|housekeeping aide|dietary aide agency free facility|part time dietary aide,0.9559621007406146,1,2024-Q2,2024-Q2
+2024-Q2,11,11,8,6,engineer voice services|voice engineer|voip engineer|voice network operations engineer|network voice engineer dallas tx,1.0,1,2024-Q2,2024-Q2
+2024-Q2,12,12,18,16,python developer|django engineer|python django developer|python developer software engineer|software engineer python defi,0.7222222222222222,1,2024-Q2,2024-Q2
+2024-Q2,13,13,18,10,paid social marketing|paid social marketing manage|paid media|paid social media marketing analyst|of paid media,0.8000290101966255,1,2024-Q2,2024-Q2
+2024-Q2,14,14,11,8,packaging engineer|project packaging engineering|industrial engineer process engineer packaging and containers manufacturing|corporate packaging engineer|optical packaging engineer,0.9724423853426571,1,2024-Q2,2024-Q2
+2024-Q2,15,15,20,20,database administrator|oracle database administrator|sql database administrator|database administrator boca raton|database administrator austin tx,0.45,1,2024-Q2,2024-Q2
+2024-Q2,16,16,23,18,assistant claims examiner irving texas|assistant claims examiner|data governance analyst|claims representative|claims technician,0.9516394979964907,1,2024-Q2,2024-Q2
+2024-Q2,17,17,13,1,seasonal auto glass repair service specialist|seasonal auto glass repair specialist|auto glass repair specialist|auto glass installation repair specialist|auto glass seasonal repair specialist,0.9105458863193563,1,2024-Q2,2024-Q2
+2024-Q2,18,18,37,2,auto glass installation technician trainee|auto glass technician trainee|automotive mobile glass technician,0.8108108108108109,1,2024-Q2,2024-Q2
+2024-Q2,19,19,13,13,mainframe developer|mainframe engineer|mainframe assembler developer|mainframe developer only w2|mainframe systems programmer,0.9708453869397924,1,2024-Q2,2024-Q2
+2024-Q2,20,20,9,8,php developer|php engineer|software engineer php|php developer addison tx|php developer washington dc,0.999174279447459,1,2024-Q2,2024-Q2
+2024-Q2,21,21,19,16,react native developer|reactjs developer|react developer|expert react frontend developer|developer react native,0.8734966923627049,1,2024-Q2,2024-Q2
+2024-Q2,22,22,12,1,retail sales print marketing|retail sales print marketing supervisor|retail print solutions|retail print production,0.9755646372804638,1,2024-Q2,2024-Q2
+2024-Q2,23,23,17,15,machine learning engineer|machine learning research engineer|machine learning researcher|machine learning engineer 10+year exp|computer vision/ machine learning engineer,0.5882352941176471,1,2024-Q2,2024-Q2
+2024-Q2,24,24,30,14,sales and operations management trainee|management trainee|management trainee program|management trainee janesville|sales trainee,0.4,1,2024-Q2,2024-Q2
+2024-Q2,25,25,9,7,training|of training|training program|program training|training and development,0.999249282214921,1,2024-Q2,2024-Q2
+2024-Q2,26,26,9,8,risk analyst|model risk analyst|vendor risk analyst|third party risk management analyst|assoc risk management analyst,0.9932474129652036,1,2024-Q2,2024-Q2
+2024-Q2,27,27,14,13,embedded software engineer|embedded engineer|contract engineer embedded|embedded software engineer experienced or|embedded software application engineer,0.5714285714285714,1,2024-Q2,2024-Q2
+2024-Q2,28,28,13,12,power platform developer|power apps developer|power bi sql developer|microsoft power platform architect|solutions developer/ power platform developer,0.9928512812710889,1,2024-Q2,2024-Q2
+2024-Q2,29,29,12,8,rf engineer|radio frequency rf engineer|radio frequency engineer|rfic design engineer|rf test engineer,0.9709323745930464,1,2024-Q2,2024-Q2
+2024-Q2,30,30,23,19,personal trainer|training specialist|athletic trainer|training coordinator|training support specialist,0.9771816904662795,1,2024-Q2,2024-Q2
+2024-Q2,31,31,12,2,retail stocking,1.0,1,2024-Q2,2024-Q2
+2024-Q2,32,32,9,5,data center operations fort worth tx|data center operations houston texas|data center project|data center support|service data center,0.9987991361768633,1,2024-Q2,2024-Q2
+2024-Q2,33,33,12,9,data center technician|datacenter technician|datacenter network technician|data center technician cheyenne wy|cable technician data center technician,0.9061566687257846,1,2024-Q2,2024-Q2
+2024-Q2,34,34,11,9,regulatory affairs|regulatory affairs specialist|regulatory and government affairs|regulatory affairs labeling|regulatory affairs contract,0.9936872629950299,1,2024-Q2,2024-Q2
+2024-Q2,35,35,8,8,cloud prsv3 engineer|azure prsv3|cloud prsv3 security engineer|google cloud prsv3 engineer|azure prsv3 engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,36,36,8,8,generative prsv24 engineer|machine learning engineer generative prsv24|generative prsv24 data scientist|prsv24 security research scientist|prsv24 data scientist,1.0,1,2024-Q2,2024-Q2
+2024-Q2,37,37,10,9,hris analyst|hris analyst hr analyst|hris analyst or|hris analyst consultant hr technology analytics|workday hris analyst,0.9747062237541886,1,2024-Q2,2024-Q2
+2024-Q2,38,38,9,9,prsv10 developer|prsv20 developer|prsv19 developer|prsv10 software engineer|software engineer prsv0,0.991559884796317,1,2024-Q2,2024-Q2
+2024-Q2,39,39,23,21,prsv3 engineer|prsv0 engineer|engineer prsv21|prsv21 engineer|prsv7 engineer,0.5217391304347826,1,2024-Q2,2024-Q2
+2024-Q2,40,40,12,2,retail sales footwear|retail sales apparel|retail sales accessories fashion show,0.9957720432667391,1,2024-Q2,2024-Q2
+2024-Q2,41,41,75,16,retail sales|retail sales technology|retail|retail sales pt,0.8133333333333334,1,2024-Q2,2024-Q2
+2024-Q2,42,42,10,6,retail store,1.0,1,2024-Q2,2024-Q2
+2024-Q2,43,43,8,7,business process analyst|process instrument analyst|enterprise business process analyst employee experience,1.0,1,2024-Q2,2024-Q2
+2024-Q2,44,44,18,13,data architect|data warehouse architect|data cloud architect data science|enterprise data architect,0.8333333333333334,1,2024-Q2,2024-Q2
+2024-Q2,45,45,8,7,fullstack developer|java fullstack developer|fullstack java developer|.net fullstack developer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,46,46,30,5,web developer|graphic designer and web developer,0.9666666666666667,1,2024-Q2,2024-Q2
+2024-Q2,47,47,13,11,scientist|research scientist|clinical scientist|medical scientist,0.7692307692307693,1,2024-Q2,2024-Q2
+2024-Q2,48,48,8,1,data science apr 30|data science apr 30 din01|data science 30 may din48|data science din52|data science din46,1.0,1,2024-Q2,2024-Q2
+2024-Q2,49,49,9,7,resident engineer|linux engineer|linux/redhat engineer|resident engineer linux|linux developer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,50,50,10,1,retail sales specialist 18.00 per hour plus commission and incentives|retail sales specialist part time 18.00 per hour plus commission and incentives|retail sales specialist 20.00 per hour plus commission and incentives|retail sales specialist base per hour plus commission and incentives,0.9785120683738938,1,2024-Q2,2024-Q2
+2024-Q2,51,51,23,21,cloud engineer|aws cloud engineer|cloud software engineer|cloud application engineer|software engineer cloud,0.391304347826087,1,2024-Q2,2024-Q2
+2024-Q2,52,52,15,13,azure cloud engineer|azure data engineer|digital engineer azure data engineer|azure data architect|azure engineer,0.9975147942629905,1,2024-Q2,2024-Q2
+2024-Q2,53,53,14,14,cloud architect|aws cloud architect|azure cloud architect|aws architect|cloud solution architect,0.9757879509351365,1,2024-Q2,2024-Q2
+2024-Q2,54,54,15,15,compliance analyst|compliance engineer|security compliance analyst|compliance analyst/auditor|regulatory compliance analyst,0.9195506861163757,1,2024-Q2,2024-Q2
+2024-Q2,55,55,13,6,retail merchandiser electronics part time|retail sales part time|retail sales full time|part time retail sales|retail merchandiser part time,0.9981985751822405,1,2024-Q2,2024-Q2
+2024-Q2,56,56,18,6,retail sales technology supervisor|retail supervisor|supervisor retail|retail operations supervisor|retail front end supervisor,0.868610989344178,1,2024-Q2,2024-Q2
+2024-Q2,57,57,13,6,retail cashier|retail customer service specialist|retail sales cashier|retail cashier customer service|retail customer service specialist full time,0.7956849327457172,1,2024-Q2,2024-Q2
+2024-Q2,58,58,21,20,supply chain analyst|supply chain planner|supply chain specialist|supply analyst|supply chain planning specialist,0.7753583579163459,1,2024-Q2,2024-Q2
+2024-Q2,59,59,14,12,supply chain|engineer supply chain|supply chain/procurement|supply chain management|technology supply chain,0.9363563388682836,1,2024-Q2,2024-Q2
+2024-Q2,60,60,21,21,dotnet developer|.net developer|.net developer 100|.net developer on w2|c# .net engineer,0.6666666666666666,1,2024-Q2,2024-Q2
+2024-Q2,61,61,9,9,full stack developer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,62,62,14,8,software engineer full stack|full stack software engineer|full stack software development engineer,0.6428571428571429,1,2024-Q2,2024-Q2
+2024-Q2,63,63,15,13,full stack engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,64,64,17,9,data entry clerk|data entry specialist|data entry clerk part time|data entry clerk/data migration specialist|data entry clerk/administrative asistant,0.47058823529411764,1,2024-Q2,2024-Q2
+2024-Q2,65,65,11,2,data entry|data entry.|data entry asistant|data entry operator,0.9566671317257941,1,2024-Q2,2024-Q2
+2024-Q2,66,66,14,11,field service engineer|field services engineer|field application engineer|field engineer|electrical field service engineer,0.8576663484388146,1,2024-Q2,2024-Q2
+2024-Q2,67,67,29,2,back end developer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,68,68,34,7,frontend developer|front end developer,0.9117647058823529,1,2024-Q2,2024-Q2
+2024-Q2,69,69,15,6,software engineering back end|software engineer back end|software engineer backend|software back end engineer|backend software engineer,0.9730014978178012,1,2024-Q2,2024-Q2
+2024-Q2,70,70,17,7,front end engineer|frontend engineer|backend engineer,0.7058823529411765,1,2024-Q2,2024-Q2
+2024-Q2,71,71,8,2,energy efficiency engineer|energy engineer|energy management engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,72,72,9,9,reliability engineer|electrical reliability engineer|quality and reliability engineer,0.9923269610573853,1,2024-Q2,2024-Q2
+2024-Q2,73,73,13,13,site reliability engineer|of site reliability engineering|site reliability engineer direct to consumer,0.8461538461538461,1,2024-Q2,2024-Q2
+2024-Q2,74,74,24,21,controls engineer|instrumentation controls engineer|project engineer controls|manufacturing controls engineer|project engineer electrical controls,0.4166666666666667,1,2024-Q2,2024-Q2
+2024-Q2,75,75,8,8,security architect|system security architect|enterprise security architect|security solutions architect,1.0,1,2024-Q2,2024-Q2
+2024-Q2,76,76,12,11,sales engineer|inside sales engineer|sales and application engineer|industrial sales engineer|inside sales application engineer,0.9703934242083724,2,2024-Q2,2024-Q3
+2024-Q2,77,77,9,9,maintenance mechanic|maintenance mechanic worker|industrial maintenance mechanic,0.996234986600265,1,2024-Q2,2024-Q2
+2024-Q2,78,78,18,16,project architect|architect|architect/project|business architect|architect project,0.8767166001870924,1,2024-Q2,2024-Q2
+2024-Q2,79,79,13,13,maintenance technician 2nd shift|maintenance technician night shift|maintenance tech 12a 2nd shift|maintenance technician 1st shift|maintenance 2nd shift,0.9338202782547879,1,2024-Q2,2024-Q2
+2024-Q2,80,80,19,18,java developer|java software engineer|java architect java developer|java oop developer|java software developer,0.5263157894736842,1,2024-Q2,2024-Q2
+2024-Q2,81,81,22,19,maintenance|of maintenance|unit maintenance,0.8636363636363636,1,2024-Q2,2024-Q2
+2024-Q2,82,82,22,19,civil engineer|environmental engineer|professional civil design engineer|site civil engineer|civil environmental engineer,0.4090909090909091,1,2024-Q2,2024-Q2
+2024-Q2,83,83,67,54,maintenance technician|industrial maintenance technician|facilities maintenance technician|maintenance tech|repair technician,0.7014925373134329,1,2024-Q2,2024-Q2
+2024-Q2,84,84,20,18,business intelligence developer|business intelligence analyst|business intelligence engineer|marketing analyst|business intelligence and internal control analyst,0.4,1,2024-Q2,2024-Q2
+2024-Q2,85,85,9,8,maintenance engineer|maintenance specialist|maintenance engineering specialist|product maintenance engineer|building maintenance specialist,0.9954270909729678,1,2024-Q2,2024-Q2
+2024-Q2,86,86,17,17,maintenance supervisor|maintenance supervisor structures|equipment maintenance supervisor|maintenance supervisor 20hr,0.8235294117647058,1,2024-Q2,2024-Q2
+2024-Q2,87,87,11,10,analyst,1.0,1,2024-Q2,2024-Q2
+2024-Q2,88,88,14,11,security officer|information security officer|security officer patrol officer|security officer f/t,0.7142857142857143,1,2024-Q2,2024-Q2
+2024-Q2,89,89,20,20,system analyst|business systems analyst|systems analyst|it systems analyst|business system analyst,0.8096349315174036,1,2024-Q2,2024-Q2
+2024-Q2,90,90,8,7,service desk analyst|it service desk analyst|services analyst,1.0,1,2024-Q2,2024-Q2
+2024-Q2,91,91,80,72,financial analyst|financial planning analyst|financial analyst est|financial reporting analyst|analyst financial,0.6,1,2024-Q2,2024-Q2
+2024-Q2,92,92,21,19,operations engineer|support analyst|technical support engineer|production support engineer|technical support analyst,0.9738616489375543,1,2024-Q2,2024-Q2
+2024-Q2,93,93,22,21,solutions architect|solution architect|salesforce solution architect|software solutions architect|business solutions architect,0.4090909090909091,1,2024-Q2,2024-Q2
+2024-Q2,94,94,78,71,business analyst|product analyst|technical business analyst|operations analyst|sales operations analyst,0.6153846153846154,1,2024-Q2,2024-Q2
+2024-Q2,95,95,27,22,automation engineer|controls automation engineer|automation software engineer|software engineer in test automation|automation architect,0.4444444444444444,1,2024-Q2,2024-Q2
+2024-Q2,96,96,22,18,information security analyst|cyber security analyst|cyber security specialist|cybersecurity analyst|cyber security business analyst ca,0.45454545454545453,1,2024-Q2,2024-Q2
+2024-Q2,97,97,10,5,security specialist|security professional,0.9,1,2024-Q2,2024-Q2
+2024-Q2,98,98,11,10,cyber security engineer|cybersecurity software engineer|cybersecurity test engineer|cybersecurity tools engineer|mid cybersecurity engineer,0.9876983647087413,1,2024-Q2,2024-Q2
+2024-Q2,99,99,13,13,application security engineer|security engineer|network security engineer|information security engineer|network information security engineer,0.9976450878656109,1,2024-Q2,2024-Q2
+2024-Q2,100,100,26,22,network engineer|network operations engineer|network operations center engineer,0.8846153846153846,1,2024-Q2,2024-Q2
+2024-Q2,101,101,55,48,quality engineer|supplier quality engineer|quality assurance engineer|experienced quality engineer|quality assurance analyst,0.4909090909090909,1,2024-Q2,2024-Q2
+2024-Q2,102,102,58,26,data analyst|business data analyst|data management analyst,0.9482758620689655,1,2024-Q2,2024-Q2
+2024-Q2,103,103,49,39,data engineer|data scientist/ data engineer|data scientist/data analyst,0.9591836734693877,1,2024-Q2,2024-Q2
+2024-Q2,104,104,18,15,data scientist,1.0,1,2024-Q2,2024-Q2
+2024-Q2,105,105,15,14,test engineer|software development engineer in test|software engineer in test|manufacturing and test engineer|software test engineer,0.9991061058090153,1,2024-Q2,2024-Q2
+2024-Q2,106,106,8,7,product engineer|product design engineer|product system engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,107,107,19,16,structural engineer|structural design engineer|structural analysis engineer|structural engineer in training|structures engineer,0.7368421052631579,1,2024-Q2,2024-Q2
+2024-Q2,108,108,8,7,infrastructure engineer|infrastructure projects engineer|systems infrastructure engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,109,109,37,34,process engineer|process control engineer|manufacturing process engineer|process development engineer|process equipment engineer,0.7567567567567568,1,2024-Q2,2024-Q2
+2024-Q2,110,110,13,13,systems engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,111,111,15,13,system engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,112,112,17,14,design engineer|design engineer/project|design engineering,0.8823529411764706,1,2024-Q2,2024-Q2
+2024-Q2,113,113,24,21,salesforce developer|developer|sharepoint developer|technical salesforce developer,0.5416666666666666,1,2024-Q2,2024-Q2
+2024-Q2,114,114,61,55,electrical engineer|electrical design engineer|electrical engineering|electrical hardware engineer|hardware engineer,0.7377049180327869,1,2024-Q2,2024-Q2
+2024-Q2,115,115,20,18,engineering|of engineering,0.8,1,2024-Q2,2024-Q2
+2024-Q2,116,116,21,18,engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,117,117,8,5,construction project engineer|construction engineer|building engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,118,118,34,32,project engineer|corporate project engineer|project engineer/|project /engineer,0.8823529411764706,1,2024-Q2,2024-Q2
+2024-Q2,119,119,45,40,mechanical engineer|of mechanical engineering|engineer mechanical|mechanical engineering,0.8666666666666667,1,2024-Q2,2024-Q2
+2024-Q2,120,120,16,14,mechanical design engineer|mechanical systems design engineer|mechanical design engineering|mechanical engineering designer,0.6875,1,2024-Q2,2024-Q2
+2024-Q2,121,121,28,21,manufacturing engineer,1.0,1,2024-Q2,2024-Q2
+2024-Q2,122,122,9,7,manufacturing engineering|engineer manufacturing|engineer manufacturing engineer manufacturing,0.9972261580627669,1,2024-Q2,2024-Q2
+2024-Q2,123,123,38,6,software developer|software developers,0.9736842105263158,1,2024-Q2,2024-Q2
+2024-Q2,124,124,121,81,software engineer|software development engineer|software dev engineer|software engineer tech|software systems engineer,0.9173553719008265,1,2024-Q2,2024-Q2
+2024-Q2,125,125,9,8,application engineer|applications engineer|application software engineer,0.9440288877693594,1,2024-Q2,2024-Q2
+2024-Q3,76,0,34,15,sales managers|machine learning researcher|project|technical project|internal business system analyst w18037 6. madison wi,0.5,2,2024-Q2,2024-Q3
+2024-Q3,126,1,9,7,project scrum master|scrum master|it project scrum|project servicenow siam project scrum|project agile scrum master,0.982018102618388,1,2024-Q3,2024-Q3
+2025-Q1,127,0,8,1,scrum master,1.0,4,2025-Q1,2025-Q4
+2025-Q1,128,1,16,12,software engineer|software development engineer prime video|software development engineer audible|software development engineer annapurna labs trainium collectives|engineering,0.9072886050663518,4,2025-Q1,2025-Q4
+2025-Q1,129,2,9,4,product|technical product|product motorsport,0.9884624716513797,4,2025-Q1,2025-Q4
+2025-Q2,130,0,15,1,compliance,1.0,2,2025-Q2,2025-Q3
+2025-Q2,127,1,33,11,scrum master|project scrum master|project scrum master 7264 ny|technical project /scrum master|project agile scrum master,0.7575757575757576,4,2025-Q1,2025-Q4
+2025-Q2,131,2,11,1,sales managers,1.0,1,2025-Q2,2025-Q2
+2025-Q2,129,3,66,23,product|product management|product ehs|partner product|business systems analyst,0.8484848484848485,4,2025-Q1,2025-Q4
+2025-Q2,132,4,8,7,project|it project|technical project,1.0,3,2025-Q2,2025-Q4
+2025-Q2,133,5,24,7,azure cloud platform engineer|software development engineer aws compute services|cloud platform reliability engineer|software development engineer amazon ads|software development engineer amazon stores,0.9562159509481702,3,2025-Q2,2025-Q4
+2025-Q2,128,6,143,13,software development engineer|software development engineer backend|software engineer|software development engineer engine|software engineering,0.9300699300699301,4,2025-Q1,2025-Q4
+2025-Q2,134,7,18,1,software development engineer oci,1.0,3,2025-Q2,2025-Q4
+2025-Q3,135,0,18,1,medicaid insurance product,1.0,1,2025-Q3,2025-Q3
+2025-Q3,136,1,11,2,supply chain mgr amz24214.|supply chain mgr amz24267.|supply chain mgr amz24242.|supply chain mgr amz24223.|supply chain mgr amz9160398,0.9446031013411232,1,2025-Q3,2025-Q3
+2025-Q3,137,2,20,1,product gtm servicenow product,1.0,1,2025-Q3,2025-Q3
+2025-Q3,138,3,19,1,product derivatives,1.0,1,2025-Q3,2025-Q3
+2025-Q3,130,4,54,1,compliance|edd compliance|transaction monitoring compliance,0.9629629629629629,2,2025-Q2,2025-Q3
+2025-Q3,139,5,8,4,information technology it internship summer 2026|2026 operations research science internship united states phd student science recruiting|customer support service desk internship summer 2026|summer 2026 multi media graphic design internship,1.0,1,2025-Q3,2025-Q3
+2025-Q3,140,6,26,7,legal operations administrative assistant|administrative assistant|hr administrative assistant,0.7307692307692307,1,2025-Q3,2025-Q3
+2025-Q3,141,7,10,1,product apis and software development,1.0,1,2025-Q3,2025-Q3
+2025-Q3,142,8,9,1,mgr software development engineering,1.0,1,2025-Q3,2025-Q3
+2025-Q3,143,9,12,1,customer services technical specialist support software engineer r0051175,1.0,2,2025-Q3,2025-Q4
+2025-Q3,144,10,12,1,customer services technical specialist support software engineer r0050712,1.0,1,2025-Q3,2025-Q3
+2025-Q3,145,11,20,2,product routing|product connectivity,0.95,1,2025-Q3,2025-Q3
+2025-Q3,146,12,12,9,servicenow developer|full stack developer with security clearance|systems engineer with security clearance|software/hardware project with security clearance|servicenow developer with security clearance,0.9973683876484776,1,2025-Q3,2025-Q3
+2025-Q3,129,13,317,185,product|group product|product of product|group product identity|group product funds,0.9716088328075709,4,2025-Q1,2025-Q4
+2025-Q3,133,14,19,3,software development engineer amazon stores|security engineer aws security|cyber security analyst aws security|software development engineer amazon advertising creative|software development engineer aws,0.42105263157894735,3,2025-Q2,2025-Q4
+2025-Q3,147,15,53,3,product risk and fraud|product fraud|product risk,0.9622641509433962,2,2025-Q3,2025-Q4
+2025-Q3,148,16,8,8,product platform|platform product|product content platforms|platform services product,1.0,1,2025-Q3,2025-Q3
+2025-Q3,149,17,23,5,product enterprise finance|product finance|product investments|product financial|product trading,0.8260869565217391,1,2025-Q3,2025-Q3
+2025-Q3,150,18,17,16,technical project|software product|product salesforce applications|technical project boston|software project,0.9949475830061362,2,2025-Q3,2025-Q4
+2025-Q3,132,19,42,20,project|it project|project it,0.8571428571428571,3,2025-Q2,2025-Q4
+2025-Q3,151,20,9,7,project /. consultant|technical project management advisor|managing project business analyst|project consultant|project portfolio management analyst,0.9966598336068258,1,2025-Q3,2025-Q3
+2025-Q3,152,21,11,8,embedded software engineer|embedded software developer/engineer|2025 software development engineer embedded development|ada embedded software engineer|low level embedded software engineer,0.8792460055717467,2,2025-Q3,2025-Q4
+2025-Q3,127,22,10,10,project /scrum master|project scrum master|technical project scrum master|scrum master project|scrum master/project,0.9777708374249265,4,2025-Q1,2025-Q4
+2025-Q3,153,23,8,7,scrum master,1.0,1,2025-Q3,2025-Q3
+2025-Q3,154,24,14,11,business analyst|business process analyst|finance accounting business analyst|accounting and finance systems business analyst experienced hire|business analyst erp accounting finance,0.9587010055832639,2,2025-Q3,2025-Q4
+2025-Q3,155,25,8,5,digital product|digital product expert,1.0,2,2025-Q3,2025-Q4
+2025-Q3,156,26,19,2,product management leader prsv24|of product management prsv24,0.9473684210526315,1,2025-Q3,2025-Q3
+2025-Q3,157,27,21,2,product security|product security engineer|product privacy,0.9047619047619048,1,2025-Q3,2025-Q3
+2025-Q3,158,28,21,14,technical product|product technical,0.8095238095238095,2,2025-Q3,2025-Q4
+2025-Q3,159,29,19,1,product technical marketing,1.0,1,2025-Q3,2025-Q3
+2025-Q3,160,30,22,8,product management,1.0,2,2025-Q3,2025-Q4
+2025-Q3,161,31,18,3,of product management,1.0,2,2025-Q3,2025-Q4
+2025-Q3,162,32,8,6,solutions engineer|solutions architect|systems engineer|solution engineers,1.0,1,2025-Q3,2025-Q3
+2025-Q3,163,33,21,1,software development engineer prsv24 data platform,1.0,1,2025-Q3,2025-Q3
+2025-Q3,164,34,21,7,technical product prsv24|prsv24 product|product prsv24,0.6666666666666666,2,2025-Q3,2025-Q4
+2025-Q3,165,35,12,11,prsv21 engineer|prsv3 engineer|software development engineer prsv24 prsv22|software development engineer prsv24|software/ prsv22 engineer,0.9973985848695003,2,2025-Q3,2025-Q4
+2025-Q3,134,36,63,1,software development engineer oci,1.0,3,2025-Q2,2025-Q4
+2025-Q3,166,37,40,1,software development engineer oci nashville tn,1.0,1,2025-Q3,2025-Q3
+2025-Q3,167,38,13,11,full stack developer|full stack .net developer|full stack engineer|full stack software development engineer|software developer full stack,0.9584290466430111,2,2025-Q3,2025-Q4
+2025-Q3,168,39,10,10,data engineer|data scientist|data science|data scientist data scientist,1.0,2,2025-Q3,2025-Q4
+2025-Q3,169,40,12,9,.net developer|software engineer .net|c#.net software engineer|software engineer c# .net developer|software developer c#,0.9841718568323499,2,2025-Q3,2025-Q4
+2025-Q3,128,41,19,16,software development engineer in test|software engineer in test sdet|software development engineer in test sdet|software development engineer in test test automation,0.631578947368421,4,2025-Q1,2025-Q4
+2025-Q3,170,42,14,4,software development engineering|software development|software development engineering tech,0.7142857142857143,1,2025-Q3,2025-Q3
+2025-Q3,171,43,203,29,software development engineer|software developer|software engineer developer|software developer/ engineer|software developer engineer,0.9408866995073891,2,2025-Q3,2025-Q4
+2025-Q3,172,44,45,31,software engineer|software engineers,0.9777777777777777,2,2025-Q3,2025-Q4
+2025-Q4,173,0,21,2,servicenow hrsd developer hris business partner|servicenow developer,0.9523809523809523,1,2025-Q4,2025-Q4
+2025-Q4,174,1,28,1,aviation student summer 2026,1.0,1,2025-Q4,2025-Q4
+2025-Q4,175,2,46,1,workforce planning data project,1.0,1,2025-Q4,2025-Q4
+2025-Q4,176,3,8,6,it project pmo environment|pmo it strategy|pmo project temporary|pmc project,1.0,1,2025-Q4,2025-Q4
+2025-Q4,177,4,17,5,software engineer edv cleared|software developer sc cleared|software developer edv cleared|contract python engineer dv cleared|contract software engineer edv cleared,0.8912772303996669,1,2025-Q4,2025-Q4
+2025-Q4,178,5,8,3,software engineer c# typescript aws|software engineer typescript react native|c# developer .net core aws|software engineer node.js typescript,1.0,1,2025-Q4,2025-Q4
+2025-Q4,147,6,9,2,product risk and fraud|product risk and fraud annapolis|product risk and fraud juneau|product risk and fraud boston|product risk and fraud washington,0.9901493748748954,2,2025-Q3,2025-Q4
+2025-Q4,179,7,23,1,product meetings,1.0,1,2025-Q4,2025-Q4
+2025-Q4,143,8,15,10,customer service operations support bac|customer service support|analyst customer service support operations|analyst customer service support operations low income|customer service support specialist,0.9538746067807474,2,2025-Q3,2025-Q4
+2025-Q4,180,9,11,1,it vendor management and procurement specialist,1.0,1,2025-Q4,2025-Q4
+2025-Q4,181,10,35,1,product cloud business entrepreneurship,1.0,1,2025-Q4,2025-Q4
+2025-Q4,132,11,33,22,project|it project|project/product|it project delivery,0.8181818181818182,3,2025-Q2,2025-Q4
+2025-Q4,150,12,12,12,technical project|infrastructure project,0.9166666666666666,2,2025-Q3,2025-Q4
+2025-Q4,127,13,29,26,scrum master|project scrum master|project scrum master 4652|it project /scrum master|technical project /scrum master,0.8417038630234022,4,2025-Q1,2025-Q4
+2025-Q4,182,14,18,1,product machine learning,1.0,1,2025-Q4,2025-Q4
+2025-Q4,183,15,8,8,technical program|technical program managers|technical program portfolio|technical program contractor|technical program management,1.0,1,2025-Q4,2025-Q4
+2025-Q4,133,16,21,6,software development engineer amazon stores|backend software engineer java kotlin aws|backend software engineer java aws|security engineer aws security|software development engineer aws marketplace,0.9411053997956138,3,2025-Q2,2025-Q4
+2025-Q4,184,17,8,4,software|software product,1.0,1,2025-Q4,2025-Q4
+2025-Q4,185,18,8,8,program|it program,1.0,1,2025-Q4,2025-Q4
+2025-Q4,129,19,304,177,product|it product|group product|product of product,0.9802631578947368,4,2025-Q1,2025-Q4
+2025-Q4,158,20,27,26,technical product|product technical|technical product owner|technical product interlok product,0.8518518518518519,2,2025-Q3,2025-Q4
+2025-Q4,168,21,24,18,data scientist|data engineer|operations data analyst|financial data analyst|data science,0.9651278878363142,2,2025-Q3,2025-Q4
+2025-Q4,154,22,19,12,business analyst|accounting finance business systems analyst consultant|it business analyst|digital business analyst|business systems analyst,0.47368421052631576,2,2025-Q3,2025-Q4
+2025-Q4,186,23,19,1,software development engineer summer 2026,1.0,1,2025-Q4,2025-Q4
+2025-Q4,187,24,29,4,software development engineer android|android software development engineer ring|software development engineer mobile|android systems software engineer,0.896551724137931,1,2025-Q4,2025-Q4
+2025-Q4,155,25,9,7,digital product|digital commerce product|digital tools product|product digital experience|digital it product,0.9995944494801056,2,2025-Q3,2025-Q4
+2025-Q4,172,26,10,7,of engineering|project engineer|it engineer|engineering|engineer,0.9925293992921287,2,2025-Q3,2025-Q4
+2025-Q4,188,27,12,10,data product|product data|product data products|data product management,0.9682174940320222,1,2025-Q4,2025-Q4
+2025-Q4,134,28,40,1,software development engineer oci,1.0,3,2025-Q2,2025-Q4
+2025-Q4,152,29,13,9,embedded linux software engineer|embedded software engineer|embedded software engineer software developer|c++ software engineer linux|software engineer c++ developer,0.9540524173505673,2,2025-Q3,2025-Q4
+2025-Q4,160,30,33,20,product management,1.0,2,2025-Q3,2025-Q4
+2025-Q4,161,31,8,4,of product management,1.0,2,2025-Q3,2025-Q4
+2025-Q4,167,32,13,8,full stack developer|full stack engineer|software development engineer full stack|full stack software development engineer|full stack software engineer,0.6153846153846154,2,2025-Q3,2025-Q4
+2025-Q4,169,33,13,12,c# software developer|software engineer .net|.net software developer|.net software development engineer|.net developer,0.9758706945160351,2,2025-Q3,2025-Q4
+2025-Q4,165,34,11,4,prsv27 prsv26 graphic designer|prsv27 prsv26 design consultant|graphics designer prsv27 prsv26,0.8181818181818182,2,2025-Q3,2025-Q4
+2025-Q4,171,35,101,1,software development engineer/release,1.0,2,2025-Q3,2025-Q4
+2025-Q4,128,36,58,13,software development engineer in test|software development engineer in test sdet|software development engineer test|software development engineer in test decisioning team,0.9137931034482759,4,2025-Q1,2025-Q4
+2025-Q4,189,37,11,9,software development engineer in test java|java developer|java developer software engineer|software development engineer in test java selenium|software engineer java developer,0.9694734636807076,1,2025-Q4,2025-Q4
+2025-Q4,164,38,8,6,prsv24 product,1.0,2,2025-Q3,2025-Q4
+2025-Q4,190,39,10,2,product prsv24,1.0,1,2025-Q4,2025-Q4
+2025-Q4,191,40,139,24,software development engineer|software developer|software developer engineer|software development engineer tech,0.9424460431654677,1,2025-Q4,2025-Q4
+2025-Q4,192,41,35,29,software engineer,1.0,1,2025-Q4,2025-Q4

@@ -1,0 +1,11 @@
+Dataset,Feature_Family,Feature_Date,Target_Date,Leakage_Status,Mitigation_Reason
+adzuna_cleaned.csv,Time Series Lags,t-1,t,SAFE,Lagged features strictly computed at or before t-1
+adzuna_cleaned.csv,Rolling Statistics (roll3m/6m),t-1,t,SAFE,Moving averages computed over past months
+adzuna_cleaned.csv,Momentum / Slope,t-1,t,SAFE,First/second derivatives over historical windows
+linkedin_cleaned.csv,Company Breadth / Seniority Entropy,2024-04,Static Prior,SAFE,Static cross-sectional prior for market structure
+naukri_cleaned.csv,Historical Era Novelty,2015-2017,Static Prior,SAFE,Strictly pre-dates all forecasting horizons
+emerging_skill_clusters_8yr.csv,Skill Adoption 2024,2024-12,Static Prior,SAFE,Independent survey benchmark across 7 clusters
+skill_year_percentage.csv,Multi-Year Skill Growth,2015-2025,Longitudinal,SAFE,Longitudinal compound annual skill growth
+national_M2018-M2025.xlsx,Annual SOC Employment,2018-2025,Annual Historical,SAFE,Government macroeconomic validation series
+1.2 Future employment growth.xlsx,10-Year BLS Projection,2024-2034,Future Horizon,VALIDATION_ONLY,Must NEVER enter feature vector during backtesting; reserved for future emergence triangulation
+future_it_jobs_master.csv,Heuristic Demand Scores,Synthetic,Heuristic Output,EXCLUDED_FROM_LABELS,Model output excluded from training to eliminate circular validation risk

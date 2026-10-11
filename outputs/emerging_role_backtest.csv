@@ -1,0 +1,10 @@
+cutoff,gt_emerging_count,model,mae,rmse,precision_at_5,precision_at_10,ndcg_at_10,notes
+BT_2024Q1,0,Enhanced_MultiSource_LGB,,,,,,No GT positives
+BT_2024Q1,0,Old_Baseline_LGB,,,,,,No GT positives
+BT_2024Q1,0,Naive,,,,,,No GT positives
+BT_2024Q3,2,Enhanced_MultiSource_LGB,0.78,3.6,0.4,0.2,1.0,
+BT_2024Q3,2,Old_Baseline_LGB,3.04,7.36,0.4,0.2,1.0,
+BT_2024Q3,2,Naive,13.46,47.44,0.0,0.0,0.0,
+BT_2025Q1,12,Enhanced_MultiSource_LGB,2.61,5.69,0.8,0.8,0.836,
+BT_2025Q1,12,Old_Baseline_LGB,2.63,5.56,0.8,0.7,0.761,
+BT_2025Q1,12,Naive,26.13,105.12,0.8,0.4,0.51,

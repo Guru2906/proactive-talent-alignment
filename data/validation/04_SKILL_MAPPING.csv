@@ -1,0 +1,92 @@
+source_dataset,original_skill,canonical_skill,skill_category,skill_cluster_id,adoption_percentage_2024,is_ai_related,is_frontier_skill,mapping_confidence,mapping_method
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Python,Python,Language,1,46.944,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,SQL,SQL,Language,1,46.888,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,PostgreSQL,PostgreSQL,Database,1,39.024,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Amazon Web Services (AWS),Amazon Web Services (AWS),Platform,1,33.912,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Bash/Shell (all shells),Bash/Shell (all shells),Language,1,31.193,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,SQLite,SQLite,Database,1,26.537,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Google Cloud,Google Cloud,Platform,1,17.735,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Redis,Redis,Database,1,15.989,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,jQuery,jQuery,Framework,1,15.864,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,MariaDB,MariaDB,Database,1,13.74,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Go,Go,Language,1,12.383,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Vue.js,Vue.js,Framework,1,11.435,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Cloudflare,Cloudflare,Platform,1,10.658,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Elasticsearch,Elasticsearch,Database,1,9.984,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Flask,Flask,Framework,1,9.544,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Django,Django,Framework,1,8.917,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Digital Ocean,Digital Ocean,Platform,1,8.266,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,FastAPI,FastAPI,Framework,1,7.335,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Dynamodb,Dynamodb,Database,1,6.324,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Laravel,Laravel,Framework,1,5.859,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Svelte,Svelte,Framework,1,4.808,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,BigQuery,BigQuery,Database,1,3.868,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Hetzner,Hetzner,Platform,1,3.516,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Ruby on Rails,Ruby on Rails,Framework,1,3.506,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,JavaScript,JavaScript,Language,2,57.295,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,HTML/CSS,HTML/CSS,Language,2,48.621,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,TypeScript,TypeScript,Language,2,35.378,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Node.js,Node.js,Framework,2,30.215,0,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,React,React,Framework,2,29.291,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Next.js,Next.js,Framework,2,13.266,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Express,Express,Framework,2,13.164,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,ChatGPT,ChatGPT,AITool,3,57.953,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,GitHub Copilot,GitHub Copilot,AITool,3,29.084,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,MongoDB,MongoDB,Database,3,19.877,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Google Gemini,Google Gemini,AITool,3,16.896,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Bing AI,Bing AI,AITool,3,11.163,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Firebase,Firebase,Platform,3,9.846,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Vercel,Vercel,Platform,3,8.391,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Supabase,Supabase,Platform,3,5.876,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Heroku,Heroku,Platform,3,5.804,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Netlify,Netlify,Platform,3,4.948,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Firebase Realtime Database,Firebase Realtime Database,Database,3,4.612,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Cloud Firestore,Cloud Firestore,Database,3,4.343,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,NestJS,NestJS,Framework,3,4.328,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Claude,Claude,AITool,4,5.746,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Codeium,Codeium,AITool,4,4.293,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Perplexity AI,Perplexity AI,AITool,4,3.762,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Tabnine,Tabnine,AITool,4,3.562,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Phind,Phind,AITool,4,2.688,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Meta AI,Meta AI,AITool,4,2.249,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Amazon Q,Amazon Q,AITool,4,1.837,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,You.com,You.com,AITool,4,0.955,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Cody,Cody,AITool,4,0.932,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,OpenAI Codex,OpenAI Codex,AITool,4,0.915,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Whispr AI,Whispr AI,AITool,4,0.727,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Quora Poe,Quora Poe,AITool,4,0.662,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Snyk Code,Snyk Code,AITool,4,0.599,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Replit Ghostwriter,Replit Ghostwriter,AITool,4,0.292,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Lightning AI,Lightning AI,AITool,4,0.241,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,AskCodi,AskCodi,AITool,4,0.199,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Andi,Andi,AITool,4,0.171,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Neeva AI,Neeva AI,AITool,4,0.125,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Metaphor,Metaphor,AITool,4,0.116,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Microsoft Azure,Microsoft Azure,Platform,5,19.637,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,PowerShell,PowerShell,Language,5,12.727,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Angular,Angular,Framework,5,12.693,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,ASP.NET CORE,ASP.NET CORE,Framework,5,12.511,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Visual Studio Intellicode,Visual Studio Intellicode,AITool,5,9.621,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,ASP.NET,ASP.NET,Framework,5,9.574,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,VMware,VMware,Platform,5,4.65,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Visual Basic (.Net),Visual Basic (.Net),Language,5,3.819,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Blazor,Blazor,Framework,5,3.634,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Microsoft Access,Microsoft Access,Database,5,3.351,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,C++,C++,Language,6,21.13,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,C,C,Language,6,18.619,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Lua,Lua,Language,6,5.697,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Assembly,Assembly,Language,6,4.941,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,R,R,Language,6,3.966,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,WolframAlpha,WolframAlpha,AITool,6,3.923,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,MATLAB,MATLAB,Language,6,3.634,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Haskell,Haskell,Language,6,1.823,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Spring Boot,Spring Boot,Framework,7,9.421,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Kotlin,Kotlin,Language,7,8.657,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,H2,H2,Database,7,3.066,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Groovy,Groovy,Language,7,3.062,0,0,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Adrenaline,Adrenaline,AITool,7,0.0,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,AWS CodeWhisperer,AWS CodeWhisperer,AITool,7,0.0,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Google Bard AI,Google Bard AI,AITool,7,0.0,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Mintlify,Mintlify,AITool,7,0.0,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Rubber Duck.AI,Rubber Duck.AI,AITool,7,0.0,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary
+Stack Overflow 2024 Developer Survey + LinkedIn Relational Skills,Synk Code,Synk Code,AITool,7,0.0,1,1,1.0,Official Stack Overflow 2024 Standardized Vocabulary

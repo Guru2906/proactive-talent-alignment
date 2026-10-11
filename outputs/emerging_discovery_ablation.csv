@@ -1,0 +1,4 @@
+method,embedding,n_clusters,noise_ratio,avg_intra_sim,avg_inter_sep,semantic_coherence,leakage_risk,notes
+TF-IDF + KMeans (k=20),bag-of-words,20,0.0,0.6,0.12,0.43,HIGH,Cannot handle semantic variation; many noise clusters
+SBERT + KMeans (k=20),SBERT all-MiniLM-L6-v2,20,0.0,0.71,0.28,0.61,MODERATE,Better semantics but k must be preset; cannot handle outliers
+SBERT + HDBSCAN,SBERT all-MiniLM-L6-v2,auto,0.18,0.83,0.67,0.74,LOW,SELECTED: density-based; handles noise; no k required; best coherence

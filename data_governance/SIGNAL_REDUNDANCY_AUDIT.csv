@@ -1,0 +1,5 @@
+Signal_Group,Overlapping_Datasets,Nature_of_Overlap,Redundancy_Risk,Selection_Strategy
+Skill Longitudinal Representations,skill_year_matrix.csv vs skill_year_occurrence.csv vs skill_year_percentage.csv,Mathematical Transformations of Same Signal,HIGH,Use skill_year_percentage.csv as primary velocity; keep occurrence for frequency counts only
+ESCO Future Profiles,future_jobs_expanded.csv vs future_job_profiles_esco_raw.csv,ESCO Occupational Vocabulary Duplication,HIGH,Use future_jobs_expanded.csv for skill matching; use esco_raw for descriptive lookup
+O*NET Datasets,current_roles_master_cleaned_v2.csv vs tech_occupation_skill_full.csv,O*NET SOC Taxonomy Overlap,MODERATE,Use current_roles_master for tech density; use tech_occupation_skill for detailed task mappings
+BLS Projections,1.2 Future growth vs 1.10 Future openings vs occupation.xlsx,BLS 2024-2034 Macro Projections,MODERATE,Growth provides percentage change; Openings provides absolute replacement volume; separate cleanly in validation
